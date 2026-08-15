@@ -1,0 +1,2011 @@
+2026-08-15 07:57:43 | === Training session started ===
+2026-08-15 07:57:43 | Full schedule: warmup=1000, total=12000, currently at step=0 (0.0% through decay)
+2026-08-15 07:57:44 | Step 1/1000 | Loss: 8.7761 | LR: 5.000000e-07
+2026-08-15 07:57:47 |   >> Validation Loss: 8.7760
+2026-08-15 07:57:48 |   --> Seen Generation @ step 1:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Re 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 điên� Sc� Sc� Sc� Sc� Sc�� Sc��� Sc���� Sc����� Sc�ruct�ructructructructructructructructructructructructructructructructructructructructructructructructructructructructructruct nghĩruct nghĩruct nghĩruct nghĩruct nghĩruct nghĩruct nghĩruct nghĩruct nghĩruct nghĩ
+--------------------------------------------------
+2026-08-15 07:57:53 | Step 5/1000 | Loss: 8.7638 | LR: 2.500000e-06
+2026-08-15 07:57:57 |   >> Validation Loss: 8.7574
+2026-08-15 07:57:57 |   --> Seen Generation @ step 5:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Sc Sc Sc 8 8 8 8 8 8 8 8 8 Sc Sc Sc Sc Sc Roman Sc Roman Sc Roman Sc Roman Sc Roman Sc Roman Sc\\\\\\\\\\\\\\\\ thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai thai Roman thai thai Roman thai thai thai thai thai Roman thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai
+--------------------------------------------------
+2026-08-15 07:57:57 | Saving checkpoint to ./checkpoints\step_5...
+2026-08-15 07:57:57 | Checkpoint saved successfully!
+
+2026-08-15 07:58:04 | Step 10/1000 | Loss: 8.7100 | LR: 5.000000e-06
+2026-08-15 07:58:08 |   >> Validation Loss: 8.6929
+2026-08-15 07:58:08 |   --> Seen Generation @ step 10:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Sc Sc Sc Sc 8 8 8 8 8 Sc Sc Sc Roman Sc Roman Sc Roman Sc Roman Sc Roman Sc\\ Sc\\ Sc\\ thai Roman thai Roman thai Roman thai Roman thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai Roman thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai thai pain thai pain thai pain thai pain thai
+--------------------------------------------------
+2026-08-15 07:58:08 | Saving checkpoint to ./checkpoints\step_10...
+2026-08-15 07:58:08 | Checkpoint saved successfully!
+
+2026-08-15 07:58:15 | Step 15/1000 | Loss: 8.6260 | LR: 7.500000e-06
+2026-08-15 07:58:19 |   >> Validation Loss: 8.5963
+2026-08-15 07:58:19 |   --> Seen Generation @ step 15:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Sc Sc Roman Roman Roman Roman Roman Roman Sc Sc Sc Sc Sc Sc Sc Sc Sc Sc Sc DNA Sc DNA Sc DNA thai DNA thai DNA DNA DNA DNA DNA DNA DNA DNA DNA DNA DNA DNA DNA DNA DNA DNAES Sc DNA thai DNA thai DNAES Sc DNA thaiES pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain pain
+--------------------------------------------------
+2026-08-15 07:58:19 | Saving checkpoint to ./checkpoints\step_15...
+2026-08-15 07:58:19 | Checkpoint saved successfully!
+
+2026-08-15 07:58:19 | Deleted old checkpoint: ./checkpoints\step_5
+2026-08-15 07:58:26 | Step 20/1000 | Loss: 8.5294 | LR: 1.000000e-05
+2026-08-15 07:58:30 |   >> Validation Loss: 8.4985
+2026-08-15 07:58:30 |   --> Seen Generation @ step 20:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:::::: Roman: Roman: thống Roman: thống Roman: thống Roman: thống Roman: thống Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai Roman thai thủ thủ thủ thủ thủ thủ thủ thủcel thai thủcel thai thủcelESESESESESESESESESESESESESESESESESESESESESESESESESES
+--------------------------------------------------
+2026-08-15 07:58:30 | Saving checkpoint to ./checkpoints\step_20...
+2026-08-15 07:58:30 | Checkpoint saved successfully!
+
+2026-08-15 07:58:30 | Deleted old checkpoint: ./checkpoints\step_10
+2026-08-15 07:58:37 | Step 25/1000 | Loss: 8.4548 | LR: 1.250000e-05
+2026-08-15 07:58:41 |   >> Validation Loss: 8.4121
+2026-08-15 07:58:41 |   --> Seen Generation @ step 25:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output::::::::::::::::::::::ball:ball: park park park park park park park park park park park park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 07:58:41 | Saving checkpoint to ./checkpoints\step_25...
+2026-08-15 07:58:41 | Checkpoint saved successfully!
+
+2026-08-15 07:58:41 | Deleted old checkpoint: ./checkpoints\step_15
+2026-08-15 07:58:48 | Step 30/1000 | Loss: 8.3587 | LR: 1.500000e-05
+2026-08-15 07:58:51 |   >> Validation Loss: 8.3312
+2026-08-15 07:58:52 |   --> Seen Generation @ step 30:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:::::::::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 07:58:52 | Saving checkpoint to ./checkpoints\step_30...
+2026-08-15 07:58:52 | Checkpoint saved successfully!
+
+2026-08-15 07:58:52 | Deleted old checkpoint: ./checkpoints\step_20
+2026-08-15 07:58:59 | Step 35/1000 | Loss: 8.2780 | LR: 1.750000e-05
+2026-08-15 07:59:02 |   >> Validation Loss: 8.2527
+2026-08-15 07:59:03 |   --> Seen Generation @ step 35:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output::::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 07:59:03 | Saving checkpoint to ./checkpoints\step_35...
+2026-08-15 07:59:03 | Checkpoint saved successfully!
+
+2026-08-15 07:59:03 | Deleted old checkpoint: ./checkpoints\step_25
+2026-08-15 07:59:10 | Step 40/1000 | Loss: 8.2102 | LR: 2.000000e-05
+2026-08-15 07:59:13 |   >> Validation Loss: 8.1780
+2026-08-15 07:59:14 |   --> Seen Generation @ step 40:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 07:59:14 | Saving checkpoint to ./checkpoints\step_40...
+2026-08-15 07:59:14 | Checkpoint saved successfully!
+
+2026-08-15 07:59:14 | Deleted old checkpoint: ./checkpoints\step_30
+2026-08-15 07:59:20 | Step 45/1000 | Loss: 8.1305 | LR: 2.250000e-05
+2026-08-15 07:59:24 |   >> Validation Loss: 8.1049
+2026-08-15 07:59:24 |   --> Seen Generation @ step 45:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 07:59:24 | Saving checkpoint to ./checkpoints\step_45...
+2026-08-15 07:59:24 | Checkpoint saved successfully!
+
+2026-08-15 07:59:24 | Deleted old checkpoint: ./checkpoints\step_35
+2026-08-15 07:59:31 | Step 50/1000 | Loss: 8.0640 | LR: 2.500000e-05
+2026-08-15 07:59:34 |   >> Validation Loss: 8.0318
+2026-08-15 07:59:35 |   --> Seen Generation @ step 50:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 07:59:35 | Saving checkpoint to ./checkpoints\step_50...
+2026-08-15 07:59:35 | Checkpoint saved successfully!
+
+2026-08-15 07:59:35 | Deleted old checkpoint: ./checkpoints\step_40
+2026-08-15 07:59:42 | Step 55/1000 | Loss: 7.9986 | LR: 2.750000e-05
+2026-08-15 07:59:45 |   >> Validation Loss: 7.9537
+2026-08-15 07:59:45 |   --> Seen Generation @ step 55:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 07:59:45 | Saving checkpoint to ./checkpoints\step_55...
+2026-08-15 07:59:45 | Checkpoint saved successfully!
+
+2026-08-15 07:59:45 | Deleted old checkpoint: ./checkpoints\step_45
+2026-08-15 07:59:52 | Step 60/1000 | Loss: 7.8714 | LR: 3.000000e-05
+2026-08-15 07:59:55 |   >> Validation Loss: 7.8646
+2026-08-15 07:59:56 |   --> Seen Generation @ step 60:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 07:59:56 | Saving checkpoint to ./checkpoints\step_60...
+2026-08-15 07:59:56 | Checkpoint saved successfully!
+
+2026-08-15 07:59:56 | Deleted old checkpoint: ./checkpoints\step_50
+2026-08-15 08:00:03 | Step 65/1000 | Loss: 7.7859 | LR: 3.250000e-05
+2026-08-15 08:00:06 |   >> Validation Loss: 7.7549
+2026-08-15 08:00:06 |   --> Seen Generation @ step 65:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:.
+O,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:00:06 | Saving checkpoint to ./checkpoints\step_65...
+2026-08-15 08:00:06 | Checkpoint saved successfully!
+
+2026-08-15 08:00:06 | Deleted old checkpoint: ./checkpoints\step_55
+2026-08-15 08:00:13 | Step 70/1000 | Loss: 7.7070 | LR: 3.500000e-05
+2026-08-15 08:00:16 |   >> Validation Loss: 7.6256
+2026-08-15 08:00:16 |   --> Seen Generation @ step 70:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:.
+Out,.
+--------------------------------------------------
+2026-08-15 08:00:16 | Saving checkpoint to ./checkpoints\step_70...
+2026-08-15 08:00:16 | Checkpoint saved successfully!
+
+2026-08-15 08:00:16 | Deleted old checkpoint: ./checkpoints\step_60
+2026-08-15 08:00:23 | Step 75/1000 | Loss: 7.5721 | LR: 3.750000e-05
+2026-08-15 08:00:26 |   >> Validation Loss: 7.4982
+2026-08-15 08:00:26 |   --> Seen Generation @ step 75:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:.
+Output:.
+--------------------------------------------------
+2026-08-15 08:00:26 | Saving checkpoint to ./checkpoints\step_75...
+2026-08-15 08:00:26 | Checkpoint saved successfully!
+
+2026-08-15 08:00:27 | Deleted old checkpoint: ./checkpoints\step_65
+2026-08-15 08:00:33 | Step 80/1000 | Loss: 7.4527 | LR: 4.000000e-05
+2026-08-15 08:00:36 |   >> Validation Loss: 7.3807
+2026-08-15 08:00:36 |   --> Seen Generation @ step 80:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:.
+Output:
+--------------------------------------------------
+2026-08-15 08:00:36 | Saving checkpoint to ./checkpoints\step_80...
+2026-08-15 08:00:37 | Checkpoint saved successfully!
+
+2026-08-15 08:00:37 | Deleted old checkpoint: ./checkpoints\step_70
+2026-08-15 08:00:43 | Step 85/1000 | Loss: 7.4140 | LR: 4.250000e-05
+2026-08-15 08:00:47 |   >> Validation Loss: 7.2729
+2026-08-15 08:00:47 |   --> Seen Generation @ step 85:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:00:47 | Saving checkpoint to ./checkpoints\step_85...
+2026-08-15 08:00:47 | Checkpoint saved successfully!
+
+2026-08-15 08:00:47 | Deleted old checkpoint: ./checkpoints\step_75
+2026-08-15 08:00:54 | Step 90/1000 | Loss: 7.2149 | LR: 4.500000e-05
+2026-08-15 08:00:57 |   >> Validation Loss: 7.1719
+2026-08-15 08:00:58 |   --> Seen Generation @ step 90:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:00:58 | Saving checkpoint to ./checkpoints\step_90...
+2026-08-15 08:00:58 | Checkpoint saved successfully!
+
+2026-08-15 08:00:58 | Deleted old checkpoint: ./checkpoints\step_80
+2026-08-15 08:01:04 | Step 95/1000 | Loss: 7.1763 | LR: 4.750000e-05
+2026-08-15 08:01:08 |   >> Validation Loss: 7.0803
+2026-08-15 08:01:08 |   --> Seen Generation @ step 95:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:01:08 | Saving checkpoint to ./checkpoints\step_95...
+2026-08-15 08:01:08 | Checkpoint saved successfully!
+
+2026-08-15 08:01:08 | Deleted old checkpoint: ./checkpoints\step_85
+2026-08-15 08:01:15 | Step 100/1000 | Loss: 7.1449 | LR: 5.000000e-05
+2026-08-15 08:01:18 |   >> Validation Loss: 6.9975
+2026-08-15 08:01:19 |   --> Seen Generation @ step 100:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:01:19 | Saving checkpoint to ./checkpoints\step_100...
+2026-08-15 08:01:19 | Checkpoint saved successfully!
+
+2026-08-15 08:01:19 | Deleted old checkpoint: ./checkpoints\step_90
+2026-08-15 08:01:26 | Step 105/1000 | Loss: 6.9617 | LR: 5.250000e-05
+2026-08-15 08:01:29 |   >> Validation Loss: 6.9230
+2026-08-15 08:01:29 |   --> Seen Generation @ step 105:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:01:29 | Saving checkpoint to ./checkpoints\step_105...
+2026-08-15 08:01:29 | Checkpoint saved successfully!
+
+2026-08-15 08:01:29 | Deleted old checkpoint: ./checkpoints\step_95
+2026-08-15 08:01:36 | Step 110/1000 | Loss: 6.8653 | LR: 5.500000e-05
+2026-08-15 08:01:39 |   >> Validation Loss: 6.8543
+2026-08-15 08:01:40 |   --> Seen Generation @ step 110:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:01:40 | Saving checkpoint to ./checkpoints\step_110...
+2026-08-15 08:01:40 | Checkpoint saved successfully!
+
+2026-08-15 08:01:40 | Deleted old checkpoint: ./checkpoints\step_100
+2026-08-15 08:01:47 | Step 115/1000 | Loss: 6.8013 | LR: 5.750000e-05
+2026-08-15 08:01:50 |   >> Validation Loss: 6.7889
+2026-08-15 08:01:50 |   --> Seen Generation @ step 115:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:01:50 | Saving checkpoint to ./checkpoints\step_115...
+2026-08-15 08:01:50 | Checkpoint saved successfully!
+
+2026-08-15 08:01:50 | Deleted old checkpoint: ./checkpoints\step_105
+2026-08-15 08:01:57 | Step 120/1000 | Loss: 6.7294 | LR: 6.000000e-05
+2026-08-15 08:02:00 |   >> Validation Loss: 6.7250
+2026-08-15 08:02:01 |   --> Seen Generation @ step 120:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:02:01 | Saving checkpoint to ./checkpoints\step_120...
+2026-08-15 08:02:01 | Checkpoint saved successfully!
+
+2026-08-15 08:02:01 | Deleted old checkpoint: ./checkpoints\step_110
+2026-08-15 08:02:08 | Step 125/1000 | Loss: 6.7476 | LR: 6.250000e-05
+2026-08-15 08:02:11 |   >> Validation Loss: 6.6624
+2026-08-15 08:02:11 |   --> Seen Generation @ step 125:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:02:11 | Saving checkpoint to ./checkpoints\step_125...
+2026-08-15 08:02:12 | Checkpoint saved successfully!
+
+2026-08-15 08:02:12 | Deleted old checkpoint: ./checkpoints\step_115
+2026-08-15 08:02:18 | Step 130/1000 | Loss: 6.6574 | LR: 6.500000e-05
+2026-08-15 08:02:22 |   >> Validation Loss: 6.6002
+2026-08-15 08:02:22 |   --> Seen Generation @ step 130:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:02:22 | Saving checkpoint to ./checkpoints\step_130...
+2026-08-15 08:02:22 | Checkpoint saved successfully!
+
+2026-08-15 08:02:22 | Deleted old checkpoint: ./checkpoints\step_120
+2026-08-15 08:02:29 | Step 135/1000 | Loss: 6.5463 | LR: 6.750000e-05
+2026-08-15 08:02:32 |   >> Validation Loss: 6.5391
+2026-08-15 08:02:33 |   --> Seen Generation @ step 135:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:02:33 | Saving checkpoint to ./checkpoints\step_135...
+2026-08-15 08:02:33 | Checkpoint saved successfully!
+
+2026-08-15 08:02:33 | Deleted old checkpoint: ./checkpoints\step_125
+2026-08-15 08:02:39 | Step 140/1000 | Loss: 6.6001 | LR: 7.000000e-05
+2026-08-15 08:02:43 |   >> Validation Loss: 6.4793
+2026-08-15 08:02:43 |   --> Seen Generation @ step 140:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+--------------------------------------------------
+2026-08-15 08:02:43 | Saving checkpoint to ./checkpoints\step_140...
+2026-08-15 08:02:43 | Checkpoint saved successfully!
+
+2026-08-15 08:02:43 | Deleted old checkpoint: ./checkpoints\step_130
+2026-08-15 08:02:49 | Step 145/1000 | Loss: 6.4898 | LR: 7.250000e-05
+2026-08-15 08:02:53 |   >> Validation Loss: 6.4207
+2026-08-15 08:02:53 |   --> Seen Generation @ step 145:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+--------------------------------------------------
+2026-08-15 08:02:53 | Saving checkpoint to ./checkpoints\step_145...
+2026-08-15 08:02:53 | Checkpoint saved successfully!
+
+2026-08-15 08:02:53 | Deleted old checkpoint: ./checkpoints\step_135
+2026-08-15 08:03:00 | Step 150/1000 | Loss: 6.3524 | LR: 7.500000e-05
+2026-08-15 08:03:03 |   >> Validation Loss: 6.3627
+2026-08-15 08:03:03 |   --> Seen Generation @ step 150:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+--------------------------------------------------
+2026-08-15 08:03:03 | Saving checkpoint to ./checkpoints\step_150...
+2026-08-15 08:03:03 | Checkpoint saved successfully!
+
+2026-08-15 08:03:03 | Deleted old checkpoint: ./checkpoints\step_140
+2026-08-15 08:03:10 | Step 155/1000 | Loss: 6.3095 | LR: 7.750000e-05
+2026-08-15 08:03:13 |   >> Validation Loss: 6.3058
+2026-08-15 08:03:13 |   --> Seen Generation @ step 155:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+--------------------------------------------------
+2026-08-15 08:03:13 | Saving checkpoint to ./checkpoints\step_155...
+2026-08-15 08:03:13 | Checkpoint saved successfully!
+
+2026-08-15 08:03:13 | Deleted old checkpoint: ./checkpoints\step_145
+2026-08-15 08:03:20 | Step 160/1000 | Loss: 6.2265 | LR: 8.000000e-05
+2026-08-15 08:03:23 |   >> Validation Loss: 6.2498
+2026-08-15 08:03:23 |   --> Seen Generation @ step 160:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+--------------------------------------------------
+2026-08-15 08:03:23 | Saving checkpoint to ./checkpoints\step_160...
+2026-08-15 08:03:23 | Checkpoint saved successfully!
+
+2026-08-15 08:03:23 | Deleted old checkpoint: ./checkpoints\step_150
+2026-08-15 08:03:30 | Step 165/1000 | Loss: 6.2446 | LR: 8.250000e-05
+2026-08-15 08:03:33 |   >> Validation Loss: 6.1943
+2026-08-15 08:03:33 |   --> Seen Generation @ step 165:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+--------------------------------------------------
+2026-08-15 08:03:33 | Saving checkpoint to ./checkpoints\step_165...
+2026-08-15 08:03:33 | Checkpoint saved successfully!
+
+2026-08-15 08:03:33 | Deleted old checkpoint: ./checkpoints\step_155
+2026-08-15 08:03:40 | Step 170/1000 | Loss: 6.2098 | LR: 8.500000e-05
+2026-08-15 08:03:43 |   >> Validation Loss: 6.1393
+2026-08-15 08:03:43 |   --> Seen Generation @ step 170:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+--------------------------------------------------
+2026-08-15 08:03:43 | Saving checkpoint to ./checkpoints\step_170...
+2026-08-15 08:03:43 | Checkpoint saved successfully!
+
+2026-08-15 08:03:43 | Deleted old checkpoint: ./checkpoints\step_160
+2026-08-15 08:03:50 | Step 175/1000 | Loss: 6.1871 | LR: 8.750000e-05
+2026-08-15 08:03:53 |   >> Validation Loss: 6.0849
+2026-08-15 08:03:54 |   --> Seen Generation @ step 175:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:03:54 | Saving checkpoint to ./checkpoints\step_175...
+2026-08-15 08:03:54 | Checkpoint saved successfully!
+
+2026-08-15 08:03:54 | Deleted old checkpoint: ./checkpoints\step_165
+2026-08-15 08:04:01 | Step 180/1000 | Loss: 6.0678 | LR: 9.000000e-05
+2026-08-15 08:04:04 |   >> Validation Loss: 6.0308
+2026-08-15 08:04:04 |   --> Seen Generation @ step 180:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: ".
+--------------------------------------------------
+2026-08-15 08:04:04 | Saving checkpoint to ./checkpoints\step_180...
+2026-08-15 08:04:04 | Checkpoint saved successfully!
+
+2026-08-15 08:04:04 | Deleted old checkpoint: ./checkpoints\step_170
+2026-08-15 08:04:11 | Step 185/1000 | Loss: 5.9030 | LR: 9.250000e-05
+2026-08-15 08:04:14 |   >> Validation Loss: 5.9772
+2026-08-15 08:04:14 |   --> Seen Generation @ step 185:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+--------------------------------------------------
+2026-08-15 08:04:14 | Saving checkpoint to ./checkpoints\step_185...
+2026-08-15 08:04:14 | Checkpoint saved successfully!
+
+2026-08-15 08:04:14 | Deleted old checkpoint: ./checkpoints\step_175
+2026-08-15 08:04:21 | Step 190/1000 | Loss: 6.0395 | LR: 9.500000e-05
+2026-08-15 08:04:24 |   >> Validation Loss: 5.9224
+2026-08-15 08:04:24 |   --> Seen Generation @ step 190:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: C.
+--------------------------------------------------
+2026-08-15 08:04:24 | Saving checkpoint to ./checkpoints\step_190...
+2026-08-15 08:04:24 | Checkpoint saved successfully!
+
+2026-08-15 08:04:24 | Deleted old checkpoint: ./checkpoints\step_180
+2026-08-15 08:04:31 | Step 195/1000 | Loss: 5.7537 | LR: 9.750000e-05
+2026-08-15 08:04:34 |   >> Validation Loss: 5.8691
+2026-08-15 08:04:34 |   --> Seen Generation @ step 195:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: C.
+--------------------------------------------------
+2026-08-15 08:04:34 | Saving checkpoint to ./checkpoints\step_195...
+2026-08-15 08:04:35 | Checkpoint saved successfully!
+
+2026-08-15 08:04:35 | Deleted old checkpoint: ./checkpoints\step_185
+2026-08-15 08:04:41 | Step 200/1000 | Loss: 5.8584 | LR: 1.000000e-04
+2026-08-15 08:04:45 |   >> Validation Loss: 5.8167
+2026-08-15 08:04:45 |   --> Seen Generation @ step 200:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: C.
+--------------------------------------------------
+2026-08-15 08:04:45 | Saving checkpoint to ./checkpoints\step_200...
+2026-08-15 08:04:45 | Checkpoint saved successfully!
+
+2026-08-15 08:04:45 | Deleted old checkpoint: ./checkpoints\step_190
+2026-08-15 08:04:52 | Step 205/1000 | Loss: 5.8422 | LR: 1.025000e-04
+2026-08-15 08:04:55 |   >> Validation Loss: 5.7642
+2026-08-15 08:04:55 |   --> Seen Generation @ step 205:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: C, của,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------------
+2026-08-15 08:04:55 | Saving checkpoint to ./checkpoints\step_205...
+2026-08-15 08:04:55 | Checkpoint saved successfully!
+
+2026-08-15 08:04:55 | Deleted old checkpoint: ./checkpoints\step_195
+2026-08-15 08:05:02 | Step 210/1000 | Loss: 5.7919 | LR: 1.050000e-04
+2026-08-15 08:05:05 |   >> Validation Loss: 5.7109
+2026-08-15 08:05:05 |   --> Seen Generation @ step 210:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi.
+--------------------------------------------------
+2026-08-15 08:05:05 | Saving checkpoint to ./checkpoints\step_210...
+2026-08-15 08:05:05 | Checkpoint saved successfully!
+
+2026-08-15 08:05:05 | Deleted old checkpoint: ./checkpoints\step_200
+2026-08-15 08:05:12 | Step 215/1000 | Loss: 5.5650 | LR: 1.075000e-04
+2026-08-15 08:05:15 |   >> Validation Loss: 5.6623
+2026-08-15 08:05:15 |   --> Seen Generation @ step 215:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: C.
+--------------------------------------------------
+2026-08-15 08:05:15 | Saving checkpoint to ./checkpoints\step_215...
+2026-08-15 08:05:15 | Checkpoint saved successfully!
+
+2026-08-15 08:05:15 | Deleted old checkpoint: ./checkpoints\step_205
+2026-08-15 08:05:22 | Step 220/1000 | Loss: 5.5927 | LR: 1.100000e-04
+2026-08-15 08:05:25 |   >> Validation Loss: 5.6134
+2026-08-15 08:05:25 |   --> Seen Generation @ step 220:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: C có.
+--------------------------------------------------
+2026-08-15 08:05:25 | Saving checkpoint to ./checkpoints\step_220...
+2026-08-15 08:05:26 | Checkpoint saved successfully!
+
+2026-08-15 08:05:26 | Deleted old checkpoint: ./checkpoints\step_210
+2026-08-15 08:05:32 | Step 225/1000 | Loss: 5.6152 | LR: 1.125000e-04
+2026-08-15 08:05:36 |   >> Validation Loss: 5.5647
+2026-08-15 08:05:36 |   --> Seen Generation @ step 225:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi.
+--------------------------------------------------
+2026-08-15 08:05:36 | Saving checkpoint to ./checkpoints\step_225...
+2026-08-15 08:05:36 | Checkpoint saved successfully!
+
+2026-08-15 08:05:36 | Deleted old checkpoint: ./checkpoints\step_215
+2026-08-15 08:05:42 | Step 230/1000 | Loss: 5.6306 | LR: 1.150000e-04
+2026-08-15 08:05:46 |   >> Validation Loss: 5.5185
+2026-08-15 08:05:46 |   --> Seen Generation @ step 230:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi, một có thể.
+--------------------------------------------------
+2026-08-15 08:05:46 | Saving checkpoint to ./checkpoints\step_230...
+2026-08-15 08:05:46 | Checkpoint saved successfully!
+
+2026-08-15 08:05:46 | Deleted old checkpoint: ./checkpoints\step_220
+2026-08-15 08:05:53 | Step 235/1000 | Loss: 5.6083 | LR: 1.175000e-04
+2026-08-15 08:05:56 |   >> Validation Loss: 5.4751
+2026-08-15 08:05:56 |   --> Seen Generation @ step 235:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi, một có thể.
+--------------------------------------------------
+2026-08-15 08:05:56 | Saving checkpoint to ./checkpoints\step_235...
+2026-08-15 08:05:56 | Checkpoint saved successfully!
+
+2026-08-15 08:05:56 | Deleted old checkpoint: ./checkpoints\step_225
+2026-08-15 08:06:03 | Step 240/1000 | Loss: 5.4052 | LR: 1.200000e-04
+2026-08-15 08:06:06 |   >> Validation Loss: 5.4335
+2026-08-15 08:06:06 |   --> Seen Generation @ step 240:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi, một có thể.
+--------------------------------------------------
+2026-08-15 08:06:06 | Saving checkpoint to ./checkpoints\step_240...
+2026-08-15 08:06:06 | Checkpoint saved successfully!
+
+2026-08-15 08:06:06 | Deleted old checkpoint: ./checkpoints\step_230
+2026-08-15 08:06:13 | Step 245/1000 | Loss: 5.4963 | LR: 1.225000e-04
+2026-08-15 08:06:16 |   >> Validation Loss: 5.3926
+2026-08-15 08:06:16 |   --> Seen Generation @ step 245:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi có thể của một không.
+--------------------------------------------------
+2026-08-15 08:06:16 | Saving checkpoint to ./checkpoints\step_245...
+2026-08-15 08:06:16 | Checkpoint saved successfully!
+
+2026-08-15 08:06:16 | Deleted old checkpoint: ./checkpoints\step_235
+2026-08-15 08:06:23 | Step 250/1000 | Loss: 5.4297 | LR: 1.250000e-04
+2026-08-15 08:06:26 |   >> Validation Loss: 5.3496
+2026-08-15 08:06:26 |   --> Seen Generation @ step 250:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi, một không thể.
+--------------------------------------------------
+2026-08-15 08:06:26 | Saving checkpoint to ./checkpoints\step_250...
+2026-08-15 08:06:26 | Checkpoint saved successfully!
+
+2026-08-15 08:06:26 | Deleted old checkpoint: ./checkpoints\step_240
+2026-08-15 08:06:33 | Step 255/1000 | Loss: 5.5424 | LR: 1.275000e-04
+2026-08-15 08:06:37 |   >> Validation Loss: 5.3101
+2026-08-15 08:06:37 |   --> Seen Generation @ step 255:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi, một không thể.
+--------------------------------------------------
+2026-08-15 08:06:37 | Saving checkpoint to ./checkpoints\step_255...
+2026-08-15 08:06:37 | Checkpoint saved successfully!
+
+2026-08-15 08:06:37 | Deleted old checkpoint: ./checkpoints\step_245
+2026-08-15 08:06:44 | Step 260/1000 | Loss: 5.3372 | LR: 1.300000e-04
+2026-08-15 08:06:47 |   >> Validation Loss: 5.2741
+2026-08-15 08:06:47 |   --> Seen Generation @ step 260:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi, một không.
+--------------------------------------------------
+2026-08-15 08:06:47 | Saving checkpoint to ./checkpoints\step_260...
+2026-08-15 08:06:47 | Checkpoint saved successfully!
+
+2026-08-15 08:06:47 | Deleted old checkpoint: ./checkpoints\step_250
+2026-08-15 08:06:54 | Step 265/1000 | Loss: 5.3415 | LR: 1.325000e-04
+2026-08-15 08:06:57 |   >> Validation Loss: 5.2369
+2026-08-15 08:06:57 |   --> Seen Generation @ step 265:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi, một không.
+--------------------------------------------------
+2026-08-15 08:06:57 | Saving checkpoint to ./checkpoints\step_265...
+2026-08-15 08:06:57 | Checkpoint saved successfully!
+
+2026-08-15 08:06:57 | Deleted old checkpoint: ./checkpoints\step_255
+2026-08-15 08:07:04 | Step 270/1000 | Loss: 5.2749 | LR: 1.350000e-04
+2026-08-15 08:07:07 |   >> Validation Loss: 5.2019
+2026-08-15 08:07:07 |   --> Seen Generation @ step 270:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:07:07 | Saving checkpoint to ./checkpoints\step_270...
+2026-08-15 08:07:07 | Checkpoint saved successfully!
+
+2026-08-15 08:07:07 | Deleted old checkpoint: ./checkpoints\step_260
+2026-08-15 08:07:14 | Step 275/1000 | Loss: 5.2234 | LR: 1.375000e-04
+2026-08-15 08:07:17 |   >> Validation Loss: 5.1665
+2026-08-15 08:07:17 |   --> Seen Generation @ step 275:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể có thể.
+--------------------------------------------------
+2026-08-15 08:07:17 | Saving checkpoint to ./checkpoints\step_275...
+2026-08-15 08:07:17 | Checkpoint saved successfully!
+
+2026-08-15 08:07:17 | Deleted old checkpoint: ./checkpoints\step_265
+2026-08-15 08:07:24 | Step 280/1000 | Loss: 5.1164 | LR: 1.400000e-04
+2026-08-15 08:07:28 |   >> Validation Loss: 5.1332
+2026-08-15 08:07:28 |   --> Seen Generation @ step 280:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể có thể.
+--------------------------------------------------
+2026-08-15 08:07:28 | Saving checkpoint to ./checkpoints\step_280...
+2026-08-15 08:07:28 | Checkpoint saved successfully!
+
+2026-08-15 08:07:28 | Deleted old checkpoint: ./checkpoints\step_270
+2026-08-15 08:07:35 | Step 285/1000 | Loss: 5.1893 | LR: 1.425000e-04
+2026-08-15 08:07:38 |   >> Validation Loss: 5.0989
+2026-08-15 08:07:38 |   --> Seen Generation @ step 285:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể có thể.
+--------------------------------------------------
+2026-08-15 08:07:38 | Saving checkpoint to ./checkpoints\step_285...
+2026-08-15 08:07:38 | Checkpoint saved successfully!
+
+2026-08-15 08:07:38 | Deleted old checkpoint: ./checkpoints\step_275
+2026-08-15 08:07:45 | Step 290/1000 | Loss: 5.1374 | LR: 1.450000e-04
+2026-08-15 08:07:48 |   >> Validation Loss: 5.0700
+2026-08-15 08:07:48 |   --> Seen Generation @ step 290:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể.
+--------------------------------------------------
+2026-08-15 08:07:48 | Saving checkpoint to ./checkpoints\step_290...
+2026-08-15 08:07:48 | Checkpoint saved successfully!
+
+2026-08-15 08:07:48 | Deleted old checkpoint: ./checkpoints\step_280
+2026-08-15 08:07:55 | Step 295/1000 | Loss: 5.1217 | LR: 1.475000e-04
+2026-08-15 08:07:58 |   >> Validation Loss: 5.0349
+2026-08-15 08:07:58 |   --> Seen Generation @ step 295:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể có thể.
+--------------------------------------------------
+2026-08-15 08:07:58 | Saving checkpoint to ./checkpoints\step_295...
+2026-08-15 08:07:58 | Checkpoint saved successfully!
+
+2026-08-15 08:07:58 | Deleted old checkpoint: ./checkpoints\step_285
+2026-08-15 08:08:05 | Step 300/1000 | Loss: 5.0812 | LR: 1.500000e-04
+2026-08-15 08:08:08 |   >> Validation Loss: 5.0076
+2026-08-15 08:08:08 |   --> Seen Generation @ step 300:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:08:08 | Saving checkpoint to ./checkpoints\step_300...
+2026-08-15 08:08:08 | Checkpoint saved successfully!
+
+2026-08-15 08:08:08 | Deleted old checkpoint: ./checkpoints\step_290
+2026-08-15 08:08:15 | Step 305/1000 | Loss: 5.1069 | LR: 1.525000e-04
+2026-08-15 08:08:18 |   >> Validation Loss: 4.9723
+2026-08-15 08:08:19 |   --> Seen Generation @ step 305:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:08:19 | Saving checkpoint to ./checkpoints\step_305...
+2026-08-15 08:08:19 | Checkpoint saved successfully!
+
+2026-08-15 08:08:19 | Deleted old checkpoint: ./checkpoints\step_295
+2026-08-15 08:08:25 | Step 310/1000 | Loss: 4.9800 | LR: 1.550000e-04
+2026-08-15 08:08:29 |   >> Validation Loss: 4.9460
+2026-08-15 08:08:29 |   --> Seen Generation @ step 310:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:08:29 | Saving checkpoint to ./checkpoints\step_310...
+2026-08-15 08:08:29 | Checkpoint saved successfully!
+
+2026-08-15 08:08:29 | Deleted old checkpoint: ./checkpoints\step_300
+2026-08-15 08:08:36 | Step 315/1000 | Loss: 4.9782 | LR: 1.575000e-04
+2026-08-15 08:08:39 |   >> Validation Loss: 4.9150
+2026-08-15 08:08:39 |   --> Seen Generation @ step 315:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:08:39 | Saving checkpoint to ./checkpoints\step_315...
+2026-08-15 08:08:39 | Checkpoint saved successfully!
+
+2026-08-15 08:08:39 | Deleted old checkpoint: ./checkpoints\step_305
+2026-08-15 08:08:46 | Step 320/1000 | Loss: 4.8433 | LR: 1.600000e-04
+2026-08-15 08:08:49 |   >> Validation Loss: 4.8830
+2026-08-15 08:08:49 |   --> Seen Generation @ step 320:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể có thể.
+--------------------------------------------------
+2026-08-15 08:08:49 | Saving checkpoint to ./checkpoints\step_320...
+2026-08-15 08:08:49 | Checkpoint saved successfully!
+
+2026-08-15 08:08:49 | Deleted old checkpoint: ./checkpoints\step_310
+2026-08-15 08:08:56 | Step 325/1000 | Loss: 4.9138 | LR: 1.625000e-04
+2026-08-15 08:08:59 |   >> Validation Loss: 4.8557
+2026-08-15 08:08:59 |   --> Seen Generation @ step 325:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:08:59 | Saving checkpoint to ./checkpoints\step_325...
+2026-08-15 08:08:59 | Checkpoint saved successfully!
+
+2026-08-15 08:08:59 | Deleted old checkpoint: ./checkpoints\step_315
+2026-08-15 08:09:06 | Step 330/1000 | Loss: 4.8023 | LR: 1.650000e-04
+2026-08-15 08:09:10 |   >> Validation Loss: 4.8279
+2026-08-15 08:09:10 |   --> Seen Generation @ step 330:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:09:10 | Saving checkpoint to ./checkpoints\step_330...
+2026-08-15 08:09:10 | Checkpoint saved successfully!
+
+2026-08-15 08:09:10 | Deleted old checkpoint: ./checkpoints\step_320
+2026-08-15 08:09:17 | Step 335/1000 | Loss: 4.8636 | LR: 1.675000e-04
+2026-08-15 08:09:20 |   >> Validation Loss: 4.8022
+2026-08-15 08:09:20 |   --> Seen Generation @ step 335:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:09:20 | Saving checkpoint to ./checkpoints\step_335...
+2026-08-15 08:09:20 | Checkpoint saved successfully!
+
+2026-08-15 08:09:20 | Deleted old checkpoint: ./checkpoints\step_325
+2026-08-15 08:09:27 | Step 340/1000 | Loss: 4.8107 | LR: 1.700000e-04
+2026-08-15 08:09:30 |   >> Validation Loss: 4.7752
+2026-08-15 08:09:30 |   --> Seen Generation @ step 340:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:09:30 | Saving checkpoint to ./checkpoints\step_340...
+2026-08-15 08:09:30 | Checkpoint saved successfully!
+
+2026-08-15 08:09:30 | Deleted old checkpoint: ./checkpoints\step_330
+2026-08-15 08:09:37 | Step 345/1000 | Loss: 4.9388 | LR: 1.725000e-04
+2026-08-15 08:09:40 |   >> Validation Loss: 4.7515
+2026-08-15 08:09:40 |   --> Seen Generation @ step 345:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể được.
+--------------------------------------------------
+2026-08-15 08:09:40 | Saving checkpoint to ./checkpoints\step_345...
+2026-08-15 08:09:41 | Checkpoint saved successfully!
+
+2026-08-15 08:09:41 | Deleted old checkpoint: ./checkpoints\step_335
+2026-08-15 08:09:47 | Step 350/1000 | Loss: 4.7486 | LR: 1.750000e-04
+2026-08-15 08:09:51 |   >> Validation Loss: 4.7257
+2026-08-15 08:09:51 |   --> Seen Generation @ step 350:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể là một người.
+--------------------------------------------------
+2026-08-15 08:09:51 | Saving checkpoint to ./checkpoints\step_350...
+2026-08-15 08:09:51 | Checkpoint saved successfully!
+
+2026-08-15 08:09:51 | Deleted old checkpoint: ./checkpoints\step_340
+2026-08-15 08:09:58 | Step 355/1000 | Loss: 4.6800 | LR: 1.775000e-04
+2026-08-15 08:10:01 |   >> Validation Loss: 4.7051
+2026-08-15 08:10:01 |   --> Seen Generation @ step 355:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể được.
+--------------------------------------------------
+2026-08-15 08:10:01 | Saving checkpoint to ./checkpoints\step_355...
+2026-08-15 08:10:01 | Checkpoint saved successfully!
+
+2026-08-15 08:10:01 | Deleted old checkpoint: ./checkpoints\step_345
+2026-08-15 08:10:08 | Step 360/1000 | Loss: 4.7340 | LR: 1.800000e-04
+2026-08-15 08:10:11 |   >> Validation Loss: 4.6777
+2026-08-15 08:10:11 |   --> Seen Generation @ step 360:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể là một người.
+--------------------------------------------------
+2026-08-15 08:10:11 | Saving checkpoint to ./checkpoints\step_360...
+2026-08-15 08:10:11 | Checkpoint saved successfully!
+
+2026-08-15 08:10:11 | Deleted old checkpoint: ./checkpoints\step_350
+2026-08-15 08:10:18 | Step 365/1000 | Loss: 4.6260 | LR: 1.825000e-04
+2026-08-15 08:10:22 |   >> Validation Loss: 4.6534
+2026-08-15 08:10:22 |   --> Seen Generation @ step 365:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể là một người.
+--------------------------------------------------
+2026-08-15 08:10:22 | Saving checkpoint to ./checkpoints\step_365...
+2026-08-15 08:10:22 | Checkpoint saved successfully!
+
+2026-08-15 08:10:22 | Deleted old checkpoint: ./checkpoints\step_355
+2026-08-15 08:10:28 | Step 370/1000 | Loss: 4.7069 | LR: 1.850000e-04
+2026-08-15 08:10:32 |   >> Validation Loss: 4.6319
+2026-08-15 08:10:32 |   --> Seen Generation @ step 370:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể được.
+--------------------------------------------------
+2026-08-15 08:10:32 | Saving checkpoint to ./checkpoints\step_370...
+2026-08-15 08:10:32 | Checkpoint saved successfully!
+
+2026-08-15 08:10:32 | Deleted old checkpoint: ./checkpoints\step_360
+2026-08-15 08:10:38 | Step 375/1000 | Loss: 4.7058 | LR: 1.875000e-04
+2026-08-15 08:10:42 |   >> Validation Loss: 4.6105
+2026-08-15 08:10:42 |   --> Seen Generation @ step 375:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể được.
+--------------------------------------------------
+2026-08-15 08:10:42 | Saving checkpoint to ./checkpoints\step_375...
+2026-08-15 08:10:42 | Checkpoint saved successfully!
+
+2026-08-15 08:10:42 | Deleted old checkpoint: ./checkpoints\step_365
+2026-08-15 08:10:49 | Step 380/1000 | Loss: 4.6696 | LR: 1.900000e-04
+2026-08-15 08:10:52 |   >> Validation Loss: 4.5925
+2026-08-15 08:10:52 |   --> Seen Generation @ step 380:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể được.
+--------------------------------------------------
+2026-08-15 08:10:52 | Saving checkpoint to ./checkpoints\step_380...
+2026-08-15 08:10:52 | Checkpoint saved successfully!
+
+2026-08-15 08:10:52 | Deleted old checkpoint: ./checkpoints\step_370
+2026-08-15 08:10:59 | Step 385/1000 | Loss: 4.6762 | LR: 1.925000e-04
+2026-08-15 08:11:02 |   >> Validation Loss: 4.5704
+2026-08-15 08:11:02 |   --> Seen Generation @ step 385:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là một người.
+--------------------------------------------------
+2026-08-15 08:11:02 | Saving checkpoint to ./checkpoints\step_385...
+2026-08-15 08:11:02 | Checkpoint saved successfully!
+
+2026-08-15 08:11:02 | Deleted old checkpoint: ./checkpoints\step_375
+2026-08-15 08:11:09 | Step 390/1000 | Loss: 4.5958 | LR: 1.950000e-04
+2026-08-15 08:11:12 |   >> Validation Loss: 4.5499
+2026-08-15 08:11:12 |   --> Seen Generation @ step 390:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là một người.
+--------------------------------------------------
+2026-08-15 08:11:12 | Saving checkpoint to ./checkpoints\step_390...
+2026-08-15 08:11:12 | Checkpoint saved successfully!
+
+2026-08-15 08:11:12 | Deleted old checkpoint: ./checkpoints\step_380
+2026-08-15 08:11:19 | Step 395/1000 | Loss: 4.4830 | LR: 1.975000e-04
+2026-08-15 08:11:22 |   >> Validation Loss: 4.5310
+2026-08-15 08:11:22 |   --> Seen Generation @ step 395:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể có thể được.
+--------------------------------------------------
+2026-08-15 08:11:22 | Saving checkpoint to ./checkpoints\step_395...
+2026-08-15 08:11:22 | Checkpoint saved successfully!
+
+2026-08-15 08:11:22 | Deleted old checkpoint: ./checkpoints\step_385
+2026-08-15 08:11:29 | Step 400/1000 | Loss: 4.4941 | LR: 2.000000e-04
+2026-08-15 08:11:33 |   >> Validation Loss: 4.5097
+2026-08-15 08:11:33 |   --> Seen Generation @ step 400:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể có thể được.
+--------------------------------------------------
+2026-08-15 08:11:33 | Saving checkpoint to ./checkpoints\step_400...
+2026-08-15 08:11:33 | Checkpoint saved successfully!
+
+2026-08-15 08:11:33 | Deleted old checkpoint: ./checkpoints\step_390
+2026-08-15 08:11:40 | Step 405/1000 | Loss: 4.5894 | LR: 2.025000e-04
+2026-08-15 08:11:43 |   >> Validation Loss: 4.4924
+2026-08-15 08:11:43 |   --> Seen Generation @ step 405:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể được.
+--------------------------------------------------
+2026-08-15 08:11:43 | Saving checkpoint to ./checkpoints\step_405...
+2026-08-15 08:11:43 | Checkpoint saved successfully!
+
+2026-08-15 08:11:43 | Deleted old checkpoint: ./checkpoints\step_395
+2026-08-15 08:11:50 | Step 410/1000 | Loss: 4.5398 | LR: 2.050000e-04
+2026-08-15 08:11:54 |   >> Validation Loss: 4.4747
+2026-08-15 08:11:54 |   --> Seen Generation @ step 410:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể được.
+--------------------------------------------------
+2026-08-15 08:11:54 | Saving checkpoint to ./checkpoints\step_410...
+2026-08-15 08:11:54 | Checkpoint saved successfully!
+
+2026-08-15 08:11:54 | Deleted old checkpoint: ./checkpoints\step_400
+2026-08-15 08:12:01 | Step 415/1000 | Loss: 4.4480 | LR: 2.075000e-04
+2026-08-15 08:12:04 |   >> Validation Loss: 4.4568
+2026-08-15 08:12:04 |   --> Seen Generation @ step 415:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể được.
+--------------------------------------------------
+2026-08-15 08:12:04 | Saving checkpoint to ./checkpoints\step_415...
+2026-08-15 08:12:04 | Checkpoint saved successfully!
+
+2026-08-15 08:12:04 | Deleted old checkpoint: ./checkpoints\step_405
+2026-08-15 08:12:11 | Step 420/1000 | Loss: 4.4680 | LR: 2.100000e-04
+2026-08-15 08:12:15 |   >> Validation Loss: 4.4414
+2026-08-15 08:12:15 |   --> Seen Generation @ step 420:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không có thể được.
+--------------------------------------------------
+2026-08-15 08:12:15 | Saving checkpoint to ./checkpoints\step_420...
+2026-08-15 08:12:15 | Checkpoint saved successfully!
+
+2026-08-15 08:12:15 | Deleted old checkpoint: ./checkpoints\step_410
+2026-08-15 08:12:22 | Step 425/1000 | Loss: 4.3410 | LR: 2.125000e-04
+2026-08-15 08:12:25 |   >> Validation Loss: 4.4243
+2026-08-15 08:12:25 |   --> Seen Generation @ step 425:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Tôi không thể có thể được.
+--------------------------------------------------
+2026-08-15 08:12:25 | Saving checkpoint to ./checkpoints\step_425...
+2026-08-15 08:12:25 | Checkpoint saved successfully!
+
+2026-08-15 08:12:25 | Deleted old checkpoint: ./checkpoints\step_415
+2026-08-15 08:12:32 | Step 430/1000 | Loss: 4.2970 | LR: 2.150000e-04
+2026-08-15 08:12:36 |   >> Validation Loss: 4.4062
+2026-08-15 08:12:36 |   --> Seen Generation @ step 430:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là một người, tôi không?
+--------------------------------------------------
+2026-08-15 08:12:36 | Saving checkpoint to ./checkpoints\step_430...
+2026-08-15 08:12:36 | Checkpoint saved successfully!
+
+2026-08-15 08:12:36 | Deleted old checkpoint: ./checkpoints\step_420
+2026-08-15 08:12:43 | Step 435/1000 | Loss: 4.3909 | LR: 2.175000e-04
+2026-08-15 08:12:46 |   >> Validation Loss: 4.3884
+2026-08-15 08:12:46 |   --> Seen Generation @ step 435:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi không phải là người.
+--------------------------------------------------
+2026-08-15 08:12:46 | Saving checkpoint to ./checkpoints\step_435...
+2026-08-15 08:12:46 | Checkpoint saved successfully!
+
+2026-08-15 08:12:46 | Deleted old checkpoint: ./checkpoints\step_425
+2026-08-15 08:12:53 | Step 440/1000 | Loss: 4.3826 | LR: 2.200000e-04
+2026-08-15 08:12:57 |   >> Validation Loss: 4.3673
+2026-08-15 08:12:57 |   --> Seen Generation @ step 440:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi đã được.
+--------------------------------------------------
+2026-08-15 08:12:57 | Saving checkpoint to ./checkpoints\step_440...
+2026-08-15 08:12:57 | Checkpoint saved successfully!
+
+2026-08-15 08:12:57 | Deleted old checkpoint: ./checkpoints\step_430
+2026-08-15 08:13:04 | Step 445/1000 | Loss: 4.3656 | LR: 2.225000e-04
+2026-08-15 08:13:07 |   >> Validation Loss: 4.3554
+2026-08-15 08:13:07 |   --> Seen Generation @ step 445:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người không có thể.
+--------------------------------------------------
+2026-08-15 08:13:07 | Saving checkpoint to ./checkpoints\step_445...
+2026-08-15 08:13:07 | Checkpoint saved successfully!
+
+2026-08-15 08:13:07 | Deleted old checkpoint: ./checkpoints\step_435
+2026-08-15 08:13:14 | Step 450/1000 | Loss: 4.4065 | LR: 2.250000e-04
+2026-08-15 08:13:18 |   >> Validation Loss: 4.3419
+2026-08-15 08:13:18 |   --> Seen Generation @ step 450:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người không phải là người.
+--------------------------------------------------
+2026-08-15 08:13:18 | Saving checkpoint to ./checkpoints\step_450...
+2026-08-15 08:13:18 | Checkpoint saved successfully!
+
+2026-08-15 08:13:18 | Deleted old checkpoint: ./checkpoints\step_440
+2026-08-15 08:13:25 | Step 455/1000 | Loss: 4.3356 | LR: 2.275000e-04
+2026-08-15 08:13:28 |   >> Validation Loss: 4.3244
+2026-08-15 08:13:28 |   --> Seen Generation @ step 455:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người không có thể.
+--------------------------------------------------
+2026-08-15 08:13:28 | Saving checkpoint to ./checkpoints\step_455...
+2026-08-15 08:13:28 | Checkpoint saved successfully!
+
+2026-08-15 08:13:28 | Deleted old checkpoint: ./checkpoints\step_445
+2026-08-15 08:13:35 | Step 460/1000 | Loss: 4.3316 | LR: 2.300000e-04
+2026-08-15 08:13:39 |   >> Validation Loss: 4.3076
+2026-08-15 08:13:39 |   --> Seen Generation @ step 460:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người đã được.
+--------------------------------------------------
+2026-08-15 08:13:39 | Saving checkpoint to ./checkpoints\step_460...
+2026-08-15 08:13:39 | Checkpoint saved successfully!
+
+2026-08-15 08:13:39 | Deleted old checkpoint: ./checkpoints\step_450
+2026-08-15 08:13:46 | Step 465/1000 | Loss: 4.2027 | LR: 2.325000e-04
+2026-08-15 08:13:49 |   >> Validation Loss: 4.2921
+2026-08-15 08:13:49 |   --> Seen Generation @ step 465:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi không phải là người.
+--------------------------------------------------
+2026-08-15 08:13:49 | Saving checkpoint to ./checkpoints\step_465...
+2026-08-15 08:13:49 | Checkpoint saved successfully!
+
+2026-08-15 08:13:49 | Deleted old checkpoint: ./checkpoints\step_455
+2026-08-15 08:13:56 | Step 470/1000 | Loss: 4.2858 | LR: 2.350000e-04
+2026-08-15 08:14:00 |   >> Validation Loss: 4.2805
+2026-08-15 08:14:00 |   --> Seen Generation @ step 470:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi không phải là người.
+--------------------------------------------------
+2026-08-15 08:14:00 | Saving checkpoint to ./checkpoints\step_470...
+2026-08-15 08:14:00 | Checkpoint saved successfully!
+
+2026-08-15 08:14:00 | Deleted old checkpoint: ./checkpoints\step_460
+2026-08-15 08:14:07 | Step 475/1000 | Loss: 4.2210 | LR: 2.375000e-04
+2026-08-15 08:14:10 |   >> Validation Loss: 4.2627
+2026-08-15 08:14:10 |   --> Seen Generation @ step 475:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi không phải là người.
+--------------------------------------------------
+2026-08-15 08:14:10 | Saving checkpoint to ./checkpoints\step_475...
+2026-08-15 08:14:10 | Checkpoint saved successfully!
+
+2026-08-15 08:14:10 | Deleted old checkpoint: ./checkpoints\step_465
+2026-08-15 08:14:17 | Step 480/1000 | Loss: 4.2404 | LR: 2.400000e-04
+2026-08-15 08:14:21 |   >> Validation Loss: 4.2498
+2026-08-15 08:14:21 |   --> Seen Generation @ step 480:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi không có thể.
+--------------------------------------------------
+2026-08-15 08:14:21 | Saving checkpoint to ./checkpoints\step_480...
+2026-08-15 08:14:21 | Checkpoint saved successfully!
+
+2026-08-15 08:14:21 | Deleted old checkpoint: ./checkpoints\step_470
+2026-08-15 08:14:28 | Step 485/1000 | Loss: 4.3182 | LR: 2.425000e-04
+2026-08-15 08:14:31 |   >> Validation Loss: 4.2356
+2026-08-15 08:14:31 |   --> Seen Generation @ step 485:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là một người không phải là người.
+--------------------------------------------------
+2026-08-15 08:14:31 | Saving checkpoint to ./checkpoints\step_485...
+2026-08-15 08:14:31 | Checkpoint saved successfully!
+
+2026-08-15 08:14:31 | Deleted old checkpoint: ./checkpoints\step_475
+2026-08-15 08:14:38 | Step 490/1000 | Loss: 4.1791 | LR: 2.450000e-04
+2026-08-15 08:14:41 |   >> Validation Loss: 4.2201
+2026-08-15 08:14:41 |   --> Seen Generation @ step 490:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi không phải là người.
+--------------------------------------------------
+2026-08-15 08:14:41 | Saving checkpoint to ./checkpoints\step_490...
+2026-08-15 08:14:41 | Checkpoint saved successfully!
+
+2026-08-15 08:14:41 | Deleted old checkpoint: ./checkpoints\step_480
+2026-08-15 08:14:48 | Step 495/1000 | Loss: 4.2526 | LR: 2.475000e-04
+2026-08-15 08:14:51 |   >> Validation Loss: 4.2076
+2026-08-15 08:14:51 |   --> Seen Generation @ step 495:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi không phải là người.
+--------------------------------------------------
+2026-08-15 08:14:51 | Saving checkpoint to ./checkpoints\step_495...
+2026-08-15 08:14:51 | Checkpoint saved successfully!
+
+2026-08-15 08:14:51 | Deleted old checkpoint: ./checkpoints\step_485
+2026-08-15 08:14:58 | Step 500/1000 | Loss: 4.1827 | LR: 2.500000e-04
+2026-08-15 08:15:02 |   >> Validation Loss: 4.1935
+2026-08-15 08:15:02 |   --> Seen Generation @ step 500:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, tôi không có thể làm gì.
+--------------------------------------------------
+2026-08-15 08:15:02 | Saving checkpoint to ./checkpoints\step_500...
+2026-08-15 08:15:02 | Checkpoint saved successfully!
+
+2026-08-15 08:15:02 | Deleted old checkpoint: ./checkpoints\step_490
+2026-08-15 08:15:08 | Step 505/1000 | Loss: 4.3119 | LR: 2.525000e-04
+2026-08-15 08:15:12 |   >> Validation Loss: 4.1818
+2026-08-15 08:15:12 |   --> Seen Generation @ step 505:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, tôi không phải là một người.
+--------------------------------------------------
+2026-08-15 08:15:12 | Saving checkpoint to ./checkpoints\step_505...
+2026-08-15 08:15:12 | Checkpoint saved successfully!
+
+2026-08-15 08:15:12 | Deleted old checkpoint: ./checkpoints\step_495
+2026-08-15 08:15:19 | Step 510/1000 | Loss: 4.1801 | LR: 2.550000e-04
+2026-08-15 08:15:22 |   >> Validation Loss: 4.1655
+2026-08-15 08:15:22 |   --> Seen Generation @ step 510:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi sẽ không phải là người.
+--------------------------------------------------
+2026-08-15 08:15:22 | Saving checkpoint to ./checkpoints\step_510...
+2026-08-15 08:15:22 | Checkpoint saved successfully!
+
+2026-08-15 08:15:22 | Deleted old checkpoint: ./checkpoints\step_500
+2026-08-15 08:15:29 | Step 515/1000 | Loss: 4.2794 | LR: 2.575000e-04
+2026-08-15 08:15:32 |   >> Validation Loss: 4.1553
+2026-08-15 08:15:32 |   --> Seen Generation @ step 515:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, anh ta không phải không?
+--------------------------------------------------
+2026-08-15 08:15:32 | Saving checkpoint to ./checkpoints\step_515...
+2026-08-15 08:15:32 | Checkpoint saved successfully!
+
+2026-08-15 08:15:32 | Deleted old checkpoint: ./checkpoints\step_505
+2026-08-15 08:15:39 | Step 520/1000 | Loss: 4.1031 | LR: 2.600000e-04
+2026-08-15 08:15:42 |   >> Validation Loss: 4.1435
+2026-08-15 08:15:42 |   --> Seen Generation @ step 520:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, không có một người.
+--------------------------------------------------
+2026-08-15 08:15:42 | Saving checkpoint to ./checkpoints\step_520...
+2026-08-15 08:15:42 | Checkpoint saved successfully!
+
+2026-08-15 08:15:42 | Deleted old checkpoint: ./checkpoints\step_510
+2026-08-15 08:15:49 | Step 525/1000 | Loss: 4.0926 | LR: 2.625000e-04
+2026-08-15 08:15:52 |   >> Validation Loss: 4.1330
+2026-08-15 08:15:52 |   --> Seen Generation @ step 525:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người không phải là người.
+--------------------------------------------------
+2026-08-15 08:15:52 | Saving checkpoint to ./checkpoints\step_525...
+2026-08-15 08:15:52 | Checkpoint saved successfully!
+
+2026-08-15 08:15:52 | Deleted old checkpoint: ./checkpoints\step_515
+2026-08-15 08:15:59 | Step 530/1000 | Loss: 4.0741 | LR: 2.650000e-04
+2026-08-15 08:16:02 |   >> Validation Loss: 4.1196
+2026-08-15 08:16:02 |   --> Seen Generation @ step 530:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người ta sẽ không phải là người.
+--------------------------------------------------
+2026-08-15 08:16:02 | Saving checkpoint to ./checkpoints\step_530...
+2026-08-15 08:16:03 | Checkpoint saved successfully!
+
+2026-08-15 08:16:03 | Deleted old checkpoint: ./checkpoints\step_520
+2026-08-15 08:16:09 | Step 535/1000 | Loss: 4.1809 | LR: 2.675000e-04
+2026-08-15 08:16:13 |   >> Validation Loss: 4.1068
+2026-08-15 08:16:13 |   --> Seen Generation @ step 535:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, anh ta sẽ không phải không?
+--------------------------------------------------
+2026-08-15 08:16:13 | Saving checkpoint to ./checkpoints\step_535...
+2026-08-15 08:16:13 | Checkpoint saved successfully!
+
+2026-08-15 08:16:13 | Deleted old checkpoint: ./checkpoints\step_525
+2026-08-15 08:16:20 | Step 540/1000 | Loss: 4.2131 | LR: 2.700000e-04
+2026-08-15 08:16:23 |   >> Validation Loss: 4.0978
+2026-08-15 08:16:23 |   --> Seen Generation @ step 540:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, không phải là một người.
+--------------------------------------------------
+2026-08-15 08:16:23 | Saving checkpoint to ./checkpoints\step_540...
+2026-08-15 08:16:23 | Checkpoint saved successfully!
+
+2026-08-15 08:16:23 | Deleted old checkpoint: ./checkpoints\step_530
+2026-08-15 08:16:30 | Step 545/1000 | Loss: 4.2278 | LR: 2.725000e-04
+2026-08-15 08:16:33 |   >> Validation Loss: 4.0833
+2026-08-15 08:16:33 |   --> Seen Generation @ step 545:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, anh đã làm việc.
+--------------------------------------------------
+2026-08-15 08:16:33 | Saving checkpoint to ./checkpoints\step_545...
+2026-08-15 08:16:33 | Checkpoint saved successfully!
+
+2026-08-15 08:16:33 | Deleted old checkpoint: ./checkpoints\step_535
+2026-08-15 08:16:40 | Step 550/1000 | Loss: 4.0625 | LR: 2.750000e-04
+2026-08-15 08:16:43 |   >> Validation Loss: 4.0719
+2026-08-15 08:16:43 |   --> Seen Generation @ step 550:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là, anh ta sẽ làm.
+--------------------------------------------------
+2026-08-15 08:16:43 | Saving checkpoint to ./checkpoints\step_550...
+2026-08-15 08:16:43 | Checkpoint saved successfully!
+
+2026-08-15 08:16:43 | Deleted old checkpoint: ./checkpoints\step_540
+2026-08-15 08:16:50 | Step 555/1000 | Loss: 4.1048 | LR: 2.775000e-04
+2026-08-15 08:16:53 |   >> Validation Loss: 4.0595
+2026-08-15 08:16:53 |   --> Seen Generation @ step 555:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, anh ta sẽ không phải.
+--------------------------------------------------
+2026-08-15 08:16:53 | Saving checkpoint to ./checkpoints\step_555...
+2026-08-15 08:16:53 | Checkpoint saved successfully!
+
+2026-08-15 08:16:53 | Deleted old checkpoint: ./checkpoints\step_545
+2026-08-15 08:17:00 | Step 560/1000 | Loss: 4.1140 | LR: 2.800000e-04
+2026-08-15 08:17:03 |   >> Validation Loss: 4.0510
+2026-08-15 08:17:04 |   --> Seen Generation @ step 560:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, anh ta sẽ không phải.
+--------------------------------------------------
+2026-08-15 08:17:04 | Saving checkpoint to ./checkpoints\step_560...
+2026-08-15 08:17:04 | Checkpoint saved successfully!
+
+2026-08-15 08:17:04 | Deleted old checkpoint: ./checkpoints\step_550
+2026-08-15 08:17:10 | Step 565/1000 | Loss: 4.0163 | LR: 2.825000e-04
+2026-08-15 08:17:14 |   >> Validation Loss: 4.0389
+2026-08-15 08:17:14 |   --> Seen Generation @ step 565:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, anh ta sẽ không phải.
+--------------------------------------------------
+2026-08-15 08:17:14 | Saving checkpoint to ./checkpoints\step_565...
+2026-08-15 08:17:14 | Checkpoint saved successfully!
+
+2026-08-15 08:17:14 | Deleted old checkpoint: ./checkpoints\step_555
+2026-08-15 08:17:21 | Step 570/1000 | Loss: 4.1252 | LR: 2.850000e-04
+2026-08-15 08:17:24 |   >> Validation Loss: 4.0288
+2026-08-15 08:17:24 |   --> Seen Generation @ step 570:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là tôi, anh ta sẽ không.
+--------------------------------------------------
+2026-08-15 08:17:24 | Saving checkpoint to ./checkpoints\step_570...
+2026-08-15 08:17:24 | Checkpoint saved successfully!
+
+2026-08-15 08:17:24 | Deleted old checkpoint: ./checkpoints\step_560
+2026-08-15 08:17:31 | Step 575/1000 | Loss: 4.0051 | LR: 2.875000e-04
+2026-08-15 08:17:34 |   >> Validation Loss: 4.0167
+2026-08-15 08:17:34 |   --> Seen Generation @ step 575:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, anh ta sẽ không có gì.
+--------------------------------------------------
+2026-08-15 08:17:34 | Saving checkpoint to ./checkpoints\step_575...
+2026-08-15 08:17:34 | Checkpoint saved successfully!
+
+2026-08-15 08:17:34 | Deleted old checkpoint: ./checkpoints\step_565
+2026-08-15 08:17:41 | Step 580/1000 | Loss: 4.0357 | LR: 2.900000e-04
+2026-08-15 08:17:44 |   >> Validation Loss: 4.0049
+2026-08-15 08:17:44 |   --> Seen Generation @ step 580:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, anh ta sẽ không phải là người.
+--------------------------------------------------
+2026-08-15 08:17:44 | Saving checkpoint to ./checkpoints\step_580...
+2026-08-15 08:17:44 | Checkpoint saved successfully!
+
+2026-08-15 08:17:44 | Deleted old checkpoint: ./checkpoints\step_570
+2026-08-15 08:17:51 | Step 585/1000 | Loss: 4.0811 | LR: 2.925000e-04
+2026-08-15 08:17:55 |   >> Validation Loss: 3.9945
+2026-08-15 08:17:55 |   --> Seen Generation @ step 585:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, anh đã làm việc này.
+--------------------------------------------------
+2026-08-15 08:17:55 | Saving checkpoint to ./checkpoints\step_585...
+2026-08-15 08:17:55 | Checkpoint saved successfully!
+
+2026-08-15 08:17:55 | Deleted old checkpoint: ./checkpoints\step_575
+2026-08-15 08:18:01 | Step 590/1000 | Loss: 3.9624 | LR: 2.950000e-04
+2026-08-15 08:18:05 |   >> Validation Loss: 3.9841
+2026-08-15 08:18:05 |   --> Seen Generation @ step 590:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, anh ta sẽ không phải là người.
+--------------------------------------------------
+2026-08-15 08:18:05 | Saving checkpoint to ./checkpoints\step_590...
+2026-08-15 08:18:05 | Checkpoint saved successfully!
+
+2026-08-15 08:18:05 | Deleted old checkpoint: ./checkpoints\step_580
+2026-08-15 08:18:12 | Step 595/1000 | Loss: 4.0284 | LR: 2.975000e-04
+2026-08-15 08:18:15 |   >> Validation Loss: 3.9731
+2026-08-15 08:18:15 |   --> Seen Generation @ step 595:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là không phải là người.
+--------------------------------------------------
+2026-08-15 08:18:15 | Saving checkpoint to ./checkpoints\step_595...
+2026-08-15 08:18:15 | Checkpoint saved successfully!
+
+2026-08-15 08:18:15 | Deleted old checkpoint: ./checkpoints\step_585
+2026-08-15 08:18:22 | Step 600/1000 | Loss: 4.0214 | LR: 3.000000e-04
+2026-08-15 08:18:25 |   >> Validation Loss: 3.9597
+2026-08-15 08:18:25 |   --> Seen Generation @ step 600:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Điều đó, anh không phải là gì.
+--------------------------------------------------
+2026-08-15 08:18:25 | Saving checkpoint to ./checkpoints\step_600...
+2026-08-15 08:18:25 | Checkpoint saved successfully!
+
+2026-08-15 08:18:25 | Deleted old checkpoint: ./checkpoints\step_590
+2026-08-15 08:18:32 | Step 605/1000 | Loss: 3.9836 | LR: 3.025000e-04
+2026-08-15 08:18:35 |   >> Validation Loss: 3.9474
+2026-08-15 08:18:35 |   --> Seen Generation @ step 605:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, chúng ta sẽ không có gì.
+--------------------------------------------------
+2026-08-15 08:18:35 | Saving checkpoint to ./checkpoints\step_605...
+2026-08-15 08:18:35 | Checkpoint saved successfully!
+
+2026-08-15 08:18:35 | Deleted old checkpoint: ./checkpoints\step_595
+2026-08-15 08:18:42 | Step 610/1000 | Loss: 3.9676 | LR: 3.050000e-04
+2026-08-15 08:18:45 |   >> Validation Loss: 3.9416
+2026-08-15 08:18:46 |   --> Seen Generation @ step 610:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, tôi không phải là người.
+--------------------------------------------------
+2026-08-15 08:18:46 | Saving checkpoint to ./checkpoints\step_610...
+2026-08-15 08:18:46 | Checkpoint saved successfully!
+
+2026-08-15 08:18:46 | Deleted old checkpoint: ./checkpoints\step_600
+2026-08-15 08:18:52 | Step 615/1000 | Loss: 3.9619 | LR: 3.075000e-04
+2026-08-15 08:18:56 |   >> Validation Loss: 3.9302
+2026-08-15 08:18:56 |   --> Seen Generation @ step 615:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải là người.
+--------------------------------------------------
+2026-08-15 08:18:56 | Saving checkpoint to ./checkpoints\step_615...
+2026-08-15 08:18:56 | Checkpoint saved successfully!
+
+2026-08-15 08:18:56 | Deleted old checkpoint: ./checkpoints\step_605
+2026-08-15 08:19:03 | Step 620/1000 | Loss: 4.0889 | LR: 3.100000e-04
+2026-08-15 08:19:06 |   >> Validation Loss: 3.9191
+2026-08-15 08:19:06 |   --> Seen Generation @ step 620:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, không phải là người.
+--------------------------------------------------
+2026-08-15 08:19:06 | Saving checkpoint to ./checkpoints\step_620...
+2026-08-15 08:19:06 | Checkpoint saved successfully!
+
+2026-08-15 08:19:06 | Deleted old checkpoint: ./checkpoints\step_610
+2026-08-15 08:19:13 | Step 625/1000 | Loss: 4.0043 | LR: 3.125000e-04
+2026-08-15 08:19:16 |   >> Validation Loss: 3.9089
+2026-08-15 08:19:16 |   --> Seen Generation @ step 625:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, tôi không phải làm gì.
+--------------------------------------------------
+2026-08-15 08:19:16 | Saving checkpoint to ./checkpoints\step_625...
+2026-08-15 08:19:16 | Checkpoint saved successfully!
+
+2026-08-15 08:19:16 | Deleted old checkpoint: ./checkpoints\step_615
+2026-08-15 08:19:23 | Step 630/1000 | Loss: 3.9727 | LR: 3.150000e-04
+2026-08-15 08:19:26 |   >> Validation Loss: 3.8975
+2026-08-15 08:19:26 |   --> Seen Generation @ step 630:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, anh ấy không phải là người.
+--------------------------------------------------
+2026-08-15 08:19:26 | Saving checkpoint to ./checkpoints\step_630...
+2026-08-15 08:19:26 | Checkpoint saved successfully!
+
+2026-08-15 08:19:26 | Deleted old checkpoint: ./checkpoints\step_620
+2026-08-15 08:19:33 | Step 635/1000 | Loss: 3.9849 | LR: 3.175000e-04
+2026-08-15 08:19:36 |   >> Validation Loss: 3.8899
+2026-08-15 08:19:36 |   --> Seen Generation @ step 635:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, không phải là người.
+--------------------------------------------------
+2026-08-15 08:19:36 | Saving checkpoint to ./checkpoints\step_635...
+2026-08-15 08:19:36 | Checkpoint saved successfully!
+
+2026-08-15 08:19:36 | Deleted old checkpoint: ./checkpoints\step_625
+2026-08-15 08:19:43 | Step 640/1000 | Loss: 3.9285 | LR: 3.200000e-04
+2026-08-15 08:19:46 |   >> Validation Loss: 3.8797
+2026-08-15 08:19:46 |   --> Seen Generation @ step 640:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi sẽ không phải là người.
+--------------------------------------------------
+2026-08-15 08:19:46 | Saving checkpoint to ./checkpoints\step_640...
+2026-08-15 08:19:46 | Checkpoint saved successfully!
+
+2026-08-15 08:19:46 | Deleted old checkpoint: ./checkpoints\step_630
+2026-08-15 08:19:53 | Step 645/1000 | Loss: 3.9333 | LR: 3.225000e-04
+2026-08-15 08:19:56 |   >> Validation Loss: 3.8689
+2026-08-15 08:19:56 |   --> Seen Generation @ step 645:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:19:56 | Saving checkpoint to ./checkpoints\step_645...
+2026-08-15 08:19:56 | Checkpoint saved successfully!
+
+2026-08-15 08:19:56 | Deleted old checkpoint: ./checkpoints\step_635
+2026-08-15 08:20:03 | Step 650/1000 | Loss: 3.8894 | LR: 3.250000e-04
+2026-08-15 08:20:06 |   >> Validation Loss: 3.8588
+2026-08-15 08:20:06 |   --> Seen Generation @ step 650:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây giờ, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:20:06 | Saving checkpoint to ./checkpoints\step_650...
+2026-08-15 08:20:06 | Checkpoint saved successfully!
+
+2026-08-15 08:20:07 | Deleted old checkpoint: ./checkpoints\step_640
+2026-08-15 08:20:13 | Step 655/1000 | Loss: 3.8083 | LR: 3.275000e-04
+2026-08-15 08:20:17 |   >> Validation Loss: 3.8490
+2026-08-15 08:20:17 |   --> Seen Generation @ step 655:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:20:17 | Saving checkpoint to ./checkpoints\step_655...
+2026-08-15 08:20:17 | Checkpoint saved successfully!
+
+2026-08-15 08:20:17 | Deleted old checkpoint: ./checkpoints\step_645
+2026-08-15 08:20:23 | Step 660/1000 | Loss: 3.8490 | LR: 3.300000e-04
+2026-08-15 08:20:27 |   >> Validation Loss: 3.8421
+2026-08-15 08:20:27 |   --> Seen Generation @ step 660:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, tôi không phải là gì.
+--------------------------------------------------
+2026-08-15 08:20:27 | Saving checkpoint to ./checkpoints\step_660...
+2026-08-15 08:20:27 | Checkpoint saved successfully!
+
+2026-08-15 08:20:27 | Deleted old checkpoint: ./checkpoints\step_650
+2026-08-15 08:20:34 | Step 665/1000 | Loss: 3.9709 | LR: 3.325000e-04
+2026-08-15 08:20:37 |   >> Validation Loss: 3.8341
+2026-08-15 08:20:37 |   --> Seen Generation @ step 665:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là người, tôi không có gì.
+--------------------------------------------------
+2026-08-15 08:20:37 | Saving checkpoint to ./checkpoints\step_665...
+2026-08-15 08:20:37 | Checkpoint saved successfully!
+
+2026-08-15 08:20:37 | Deleted old checkpoint: ./checkpoints\step_655
+2026-08-15 08:20:44 | Step 670/1000 | Loss: 3.9096 | LR: 3.350000e-04
+2026-08-15 08:20:47 |   >> Validation Loss: 3.8239
+2026-08-15 08:20:47 |   --> Seen Generation @ step 670:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, tôi không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:20:47 | Saving checkpoint to ./checkpoints\step_670...
+2026-08-15 08:20:47 | Checkpoint saved successfully!
+
+2026-08-15 08:20:47 | Deleted old checkpoint: ./checkpoints\step_660
+2026-08-15 08:20:54 | Step 675/1000 | Loss: 3.8529 | LR: 3.375000e-04
+2026-08-15 08:20:57 |   >> Validation Loss: 3.8172
+2026-08-15 08:20:57 |   --> Seen Generation @ step 675:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:20:57 | Saving checkpoint to ./checkpoints\step_675...
+2026-08-15 08:20:57 | Checkpoint saved successfully!
+
+2026-08-15 08:20:57 | Deleted old checkpoint: ./checkpoints\step_665
+2026-08-15 08:21:04 | Step 680/1000 | Loss: 3.8242 | LR: 3.400000e-04
+2026-08-15 08:21:07 |   >> Validation Loss: 3.8072
+2026-08-15 08:21:07 |   --> Seen Generation @ step 680:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:21:07 | Saving checkpoint to ./checkpoints\step_680...
+2026-08-15 08:21:08 | Checkpoint saved successfully!
+
+2026-08-15 08:21:08 | Deleted old checkpoint: ./checkpoints\step_670
+2026-08-15 08:21:14 | Step 685/1000 | Loss: 3.8634 | LR: 3.425000e-04
+2026-08-15 08:21:18 |   >> Validation Loss: 3.7939
+2026-08-15 08:21:18 |   --> Seen Generation @ step 685:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng làm gì đó, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:21:18 | Saving checkpoint to ./checkpoints\step_685...
+2026-08-15 08:21:18 | Checkpoint saved successfully!
+
+2026-08-15 08:21:18 | Deleted old checkpoint: ./checkpoints\step_675
+2026-08-15 08:21:24 | Step 690/1000 | Loss: 3.6892 | LR: 3.450000e-04
+2026-08-15 08:21:28 |   >> Validation Loss: 3.7878
+2026-08-15 08:21:28 |   --> Seen Generation @ step 690:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:21:28 | Saving checkpoint to ./checkpoints\step_690...
+2026-08-15 08:21:28 | Checkpoint saved successfully!
+
+2026-08-15 08:21:28 | Deleted old checkpoint: ./checkpoints\step_680
+2026-08-15 08:21:35 | Step 695/1000 | Loss: 3.8261 | LR: 3.475000e-04
+2026-08-15 08:21:38 |   >> Validation Loss: 3.7820
+2026-08-15 08:21:38 |   --> Seen Generation @ step 695:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là gì đó, không có gì đó là gì.
+--------------------------------------------------
+2026-08-15 08:21:38 | Saving checkpoint to ./checkpoints\step_695...
+2026-08-15 08:21:38 | Checkpoint saved successfully!
+
+2026-08-15 08:21:38 | Deleted old checkpoint: ./checkpoints\step_685
+2026-08-15 08:21:45 | Step 700/1000 | Loss: 3.8146 | LR: 3.500000e-04
+2026-08-15 08:21:48 |   >> Validation Loss: 3.7738
+2026-08-15 08:21:48 |   --> Seen Generation @ step 700:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói, không phải làm gì.
+--------------------------------------------------
+2026-08-15 08:21:48 | Saving checkpoint to ./checkpoints\step_700...
+2026-08-15 08:21:48 | Checkpoint saved successfully!
+
+2026-08-15 08:21:48 | Deleted old checkpoint: ./checkpoints\step_690
+2026-08-15 08:21:55 | Step 705/1000 | Loss: 3.8343 | LR: 3.525000e-04
+2026-08-15 08:21:58 |   >> Validation Loss: 3.7645
+2026-08-15 08:21:58 |   --> Seen Generation @ step 705:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:21:58 | Saving checkpoint to ./checkpoints\step_705...
+2026-08-15 08:21:58 | Checkpoint saved successfully!
+
+2026-08-15 08:21:58 | Deleted old checkpoint: ./checkpoints\step_695
+2026-08-15 08:22:05 | Step 710/1000 | Loss: 3.6316 | LR: 3.550000e-04
+2026-08-15 08:22:08 |   >> Validation Loss: 3.7554
+2026-08-15 08:22:08 |   --> Seen Generation @ step 710:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:22:08 | Saving checkpoint to ./checkpoints\step_710...
+2026-08-15 08:22:08 | Checkpoint saved successfully!
+
+2026-08-15 08:22:08 | Deleted old checkpoint: ./checkpoints\step_700
+2026-08-15 08:22:15 | Step 715/1000 | Loss: 3.7270 | LR: 3.575000e-04
+2026-08-15 08:22:18 |   >> Validation Loss: 3.7501
+2026-08-15 08:22:18 |   --> Seen Generation @ step 715:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì đó, tôi sẽ không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:22:18 | Saving checkpoint to ./checkpoints\step_715...
+2026-08-15 08:22:19 | Checkpoint saved successfully!
+
+2026-08-15 08:22:19 | Deleted old checkpoint: ./checkpoints\step_705
+2026-08-15 08:22:25 | Step 720/1000 | Loss: 3.8874 | LR: 3.600000e-04
+2026-08-15 08:22:28 |   >> Validation Loss: 3.7400
+2026-08-15 08:22:29 |   --> Seen Generation @ step 720:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Không phải là gì đó, đó là gì đó.
+--------------------------------------------------
+2026-08-15 08:22:29 | Saving checkpoint to ./checkpoints\step_720...
+2026-08-15 08:22:29 | Checkpoint saved successfully!
+
+2026-08-15 08:22:29 | Deleted old checkpoint: ./checkpoints\step_710
+2026-08-15 08:22:35 | Step 725/1000 | Loss: 3.6968 | LR: 3.625000e-04
+2026-08-15 08:22:39 |   >> Validation Loss: 3.7288
+2026-08-15 08:22:39 |   --> Seen Generation @ step 725:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:22:39 | Saving checkpoint to ./checkpoints\step_725...
+2026-08-15 08:22:39 | Checkpoint saved successfully!
+
+2026-08-15 08:22:39 | Deleted old checkpoint: ./checkpoints\step_715
+2026-08-15 08:22:46 | Step 730/1000 | Loss: 3.7443 | LR: 3.650000e-04
+2026-08-15 08:22:49 |   >> Validation Loss: 3.7210
+2026-08-15 08:22:49 |   --> Seen Generation @ step 730:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì đó, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:22:49 | Saving checkpoint to ./checkpoints\step_730...
+2026-08-15 08:22:49 | Checkpoint saved successfully!
+
+2026-08-15 08:22:49 | Deleted old checkpoint: ./checkpoints\step_720
+2026-08-15 08:22:56 | Step 735/1000 | Loss: 3.6598 | LR: 3.675000e-04
+2026-08-15 08:22:59 |   >> Validation Loss: 3.7142
+2026-08-15 08:22:59 |   --> Seen Generation @ step 735:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện này, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:22:59 | Saving checkpoint to ./checkpoints\step_735...
+2026-08-15 08:22:59 | Checkpoint saved successfully!
+
+2026-08-15 08:22:59 | Deleted old checkpoint: ./checkpoints\step_725
+2026-08-15 08:23:06 | Step 740/1000 | Loss: 3.7411 | LR: 3.700000e-04
+2026-08-15 08:23:09 |   >> Validation Loss: 3.7066
+2026-08-15 08:23:09 |   --> Seen Generation @ step 740:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, đó không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:23:09 | Saving checkpoint to ./checkpoints\step_740...
+2026-08-15 08:23:09 | Checkpoint saved successfully!
+
+2026-08-15 08:23:09 | Deleted old checkpoint: ./checkpoints\step_730
+2026-08-15 08:23:16 | Step 745/1000 | Loss: 3.7510 | LR: 3.725000e-04
+2026-08-15 08:23:19 |   >> Validation Loss: 3.6979
+2026-08-15 08:23:19 |   --> Seen Generation @ step 745:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng có gì đó, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:23:19 | Saving checkpoint to ./checkpoints\step_745...
+2026-08-15 08:23:19 | Checkpoint saved successfully!
+
+2026-08-15 08:23:19 | Deleted old checkpoint: ./checkpoints\step_735
+2026-08-15 08:23:26 | Step 750/1000 | Loss: 3.7470 | LR: 3.750000e-04
+2026-08-15 08:23:29 |   >> Validation Loss: 3.6898
+2026-08-15 08:23:29 |   --> Seen Generation @ step 750:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải làm gì đó.
+--------------------------------------------------
+2026-08-15 08:23:29 | Saving checkpoint to ./checkpoints\step_750...
+2026-08-15 08:23:29 | Checkpoint saved successfully!
+
+2026-08-15 08:23:30 | Deleted old checkpoint: ./checkpoints\step_740
+2026-08-15 08:23:36 | Step 755/1000 | Loss: 3.6990 | LR: 3.775000e-04
+2026-08-15 08:23:39 |   >> Validation Loss: 3.6825
+2026-08-15 08:23:40 |   --> Seen Generation @ step 755:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải làm gì đó.
+--------------------------------------------------
+2026-08-15 08:23:40 | Saving checkpoint to ./checkpoints\step_755...
+2026-08-15 08:23:40 | Checkpoint saved successfully!
+
+2026-08-15 08:23:40 | Deleted old checkpoint: ./checkpoints\step_745
+2026-08-15 08:23:46 | Step 760/1000 | Loss: 3.7831 | LR: 3.800000e-04
+2026-08-15 08:23:50 |   >> Validation Loss: 3.6739
+2026-08-15 08:23:50 |   --> Seen Generation @ step 760:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:23:50 | Saving checkpoint to ./checkpoints\step_760...
+2026-08-15 08:23:50 | Checkpoint saved successfully!
+
+2026-08-15 08:23:50 | Deleted old checkpoint: ./checkpoints\step_750
+2026-08-15 08:23:57 | Step 765/1000 | Loss: 3.7027 | LR: 3.825000e-04
+2026-08-15 08:24:00 |   >> Validation Loss: 3.6651
+2026-08-15 08:24:00 |   --> Seen Generation @ step 765:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải làm gì đó.
+--------------------------------------------------
+2026-08-15 08:24:00 | Saving checkpoint to ./checkpoints\step_765...
+2026-08-15 08:24:00 | Checkpoint saved successfully!
+
+2026-08-15 08:24:00 | Deleted old checkpoint: ./checkpoints\step_755
+2026-08-15 08:24:07 | Step 770/1000 | Loss: 3.6048 | LR: 3.850000e-04
+2026-08-15 08:24:10 |   >> Validation Loss: 3.6551
+2026-08-15 08:24:10 |   --> Seen Generation @ step 770:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:24:10 | Saving checkpoint to ./checkpoints\step_770...
+2026-08-15 08:24:10 | Checkpoint saved successfully!
+
+2026-08-15 08:24:10 | Deleted old checkpoint: ./checkpoints\step_760
+2026-08-15 08:24:17 | Step 775/1000 | Loss: 3.5877 | LR: 3.875000e-04
+2026-08-15 08:24:20 |   >> Validation Loss: 3.6494
+2026-08-15 08:24:20 |   --> Seen Generation @ step 775:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì đó.
+--------------------------------------------------
+2026-08-15 08:24:20 | Saving checkpoint to ./checkpoints\step_775...
+2026-08-15 08:24:20 | Checkpoint saved successfully!
+
+2026-08-15 08:24:20 | Deleted old checkpoint: ./checkpoints\step_765
+2026-08-15 08:24:27 | Step 780/1000 | Loss: 3.5936 | LR: 3.900000e-04
+2026-08-15 08:24:30 |   >> Validation Loss: 3.6428
+2026-08-15 08:24:30 |   --> Seen Generation @ step 780:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng làm gì đó, không phải là gì đó.
+--------------------------------------------------
+2026-08-15 08:24:30 | Saving checkpoint to ./checkpoints\step_780...
+2026-08-15 08:24:30 | Checkpoint saved successfully!
+
+2026-08-15 08:24:30 | Deleted old checkpoint: ./checkpoints\step_770
+2026-08-15 08:24:37 | Step 785/1000 | Loss: 3.5631 | LR: 3.925000e-04
+2026-08-15 08:24:40 |   >> Validation Loss: 3.6344
+2026-08-15 08:24:40 |   --> Seen Generation @ step 785:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng làm gì đó, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:24:40 | Saving checkpoint to ./checkpoints\step_785...
+2026-08-15 08:24:40 | Checkpoint saved successfully!
+
+2026-08-15 08:24:40 | Deleted old checkpoint: ./checkpoints\step_775
+2026-08-15 08:24:47 | Step 790/1000 | Loss: 3.5611 | LR: 3.950000e-04
+2026-08-15 08:24:50 |   >> Validation Loss: 3.6275
+2026-08-15 08:24:50 |   --> Seen Generation @ step 790:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì đó.
+--------------------------------------------------
+2026-08-15 08:24:50 | Saving checkpoint to ./checkpoints\step_790...
+2026-08-15 08:24:50 | Checkpoint saved successfully!
+
+2026-08-15 08:24:50 | Deleted old checkpoint: ./checkpoints\step_780
+2026-08-15 08:24:57 | Step 795/1000 | Loss: 3.6114 | LR: 3.975000e-04
+2026-08-15 08:25:00 |   >> Validation Loss: 3.6196
+2026-08-15 08:25:00 |   --> Seen Generation @ step 795:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nghĩ đó là gì đó.
+--------------------------------------------------
+2026-08-15 08:25:00 | Saving checkpoint to ./checkpoints\step_795...
+2026-08-15 08:25:01 | Checkpoint saved successfully!
+
+2026-08-15 08:25:01 | Deleted old checkpoint: ./checkpoints\step_785
+2026-08-15 08:25:07 | Step 800/1000 | Loss: 3.6202 | LR: 4.000000e-04
+2026-08-15 08:25:11 |   >> Validation Loss: 3.6126
+2026-08-15 08:25:11 |   --> Seen Generation @ step 800:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải là chuyện này.
+--------------------------------------------------
+2026-08-15 08:25:11 | Saving checkpoint to ./checkpoints\step_800...
+2026-08-15 08:25:11 | Checkpoint saved successfully!
+
+2026-08-15 08:25:11 | Deleted old checkpoint: ./checkpoints\step_790
+2026-08-15 08:25:17 | Step 805/1000 | Loss: 3.6539 | LR: 4.025000e-04
+2026-08-15 08:25:21 |   >> Validation Loss: 3.6108
+2026-08-15 08:25:21 |   --> Seen Generation @ step 805:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Để tôi không phải là gì ở đây.
+--------------------------------------------------
+2026-08-15 08:25:21 | Saving checkpoint to ./checkpoints\step_805...
+2026-08-15 08:25:21 | Checkpoint saved successfully!
+
+2026-08-15 08:25:21 | Deleted old checkpoint: ./checkpoints\step_795
+2026-08-15 08:25:28 | Step 810/1000 | Loss: 3.6194 | LR: 4.050000e-04
+2026-08-15 08:25:31 |   >> Validation Loss: 3.5989
+2026-08-15 08:25:31 |   --> Seen Generation @ step 810:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Để tôi biết chuyện này, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:25:31 | Saving checkpoint to ./checkpoints\step_810...
+2026-08-15 08:25:31 | Checkpoint saved successfully!
+
+2026-08-15 08:25:31 | Deleted old checkpoint: ./checkpoints\step_800
+2026-08-15 08:25:38 | Step 815/1000 | Loss: 3.5988 | LR: 4.075000e-04
+2026-08-15 08:25:41 |   >> Validation Loss: 3.5907
+2026-08-15 08:25:41 |   --> Seen Generation @ step 815:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đây là gì đó là không phải là người.
+--------------------------------------------------
+2026-08-15 08:25:41 | Saving checkpoint to ./checkpoints\step_815...
+2026-08-15 08:25:41 | Checkpoint saved successfully!
+
+2026-08-15 08:25:41 | Deleted old checkpoint: ./checkpoints\step_805
+2026-08-15 08:25:48 | Step 820/1000 | Loss: 3.4896 | LR: 4.100000e-04
+2026-08-15 08:25:51 |   >> Validation Loss: 3.5838
+2026-08-15 08:25:51 |   --> Seen Generation @ step 820:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Không ai đó là gì đó không phải là gì.
+--------------------------------------------------
+2026-08-15 08:25:51 | Saving checkpoint to ./checkpoints\step_820...
+2026-08-15 08:25:51 | Checkpoint saved successfully!
+
+2026-08-15 08:25:51 | Deleted old checkpoint: ./checkpoints\step_810
+2026-08-15 08:25:58 | Step 825/1000 | Loss: 3.6293 | LR: 4.125000e-04
+2026-08-15 08:26:01 |   >> Validation Loss: 3.5754
+2026-08-15 08:26:01 |   --> Seen Generation @ step 825:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói là điều gì không phải là gì.
+--------------------------------------------------
+2026-08-15 08:26:01 | Saving checkpoint to ./checkpoints\step_825...
+2026-08-15 08:26:01 | Checkpoint saved successfully!
+
+2026-08-15 08:26:01 | Deleted old checkpoint: ./checkpoints\step_815
+2026-08-15 08:26:08 | Step 830/1000 | Loss: 3.6175 | LR: 4.150000e-04
+2026-08-15 08:26:11 |   >> Validation Loss: 3.5700
+2026-08-15 08:26:11 |   --> Seen Generation @ step 830:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói là gì đó không phải là gì.
+--------------------------------------------------
+2026-08-15 08:26:11 | Saving checkpoint to ./checkpoints\step_830...
+2026-08-15 08:26:11 | Checkpoint saved successfully!
+
+2026-08-15 08:26:11 | Deleted old checkpoint: ./checkpoints\step_820
+2026-08-15 08:26:18 | Step 835/1000 | Loss: 3.5608 | LR: 4.175000e-04
+2026-08-15 08:26:21 |   >> Validation Loss: 3.5606
+2026-08-15 08:26:22 |   --> Seen Generation @ step 835:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải là gì ở đây.
+--------------------------------------------------
+2026-08-15 08:26:22 | Saving checkpoint to ./checkpoints\step_835...
+2026-08-15 08:26:22 | Checkpoint saved successfully!
+
+2026-08-15 08:26:22 | Deleted old checkpoint: ./checkpoints\step_825
+2026-08-15 08:26:28 | Step 840/1000 | Loss: 3.6494 | LR: 4.200000e-04
+2026-08-15 08:26:32 |   >> Validation Loss: 3.5575
+2026-08-15 08:26:32 |   --> Seen Generation @ step 840:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Không ai làm gì đó là gì đó.
+--------------------------------------------------
+2026-08-15 08:26:32 | Saving checkpoint to ./checkpoints\step_840...
+2026-08-15 08:26:32 | Checkpoint saved successfully!
+
+2026-08-15 08:26:32 | Deleted old checkpoint: ./checkpoints\step_830
+2026-08-15 08:26:38 | Step 845/1000 | Loss: 3.5920 | LR: 4.225000e-04
+2026-08-15 08:26:42 |   >> Validation Loss: 3.5480
+2026-08-15 08:26:42 |   --> Seen Generation @ step 845:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, không phải là gì ở đây.
+--------------------------------------------------
+2026-08-15 08:26:42 | Saving checkpoint to ./checkpoints\step_845...
+2026-08-15 08:26:42 | Checkpoint saved successfully!
+
+2026-08-15 08:26:42 | Deleted old checkpoint: ./checkpoints\step_835
+2026-08-15 08:26:49 | Step 850/1000 | Loss: 3.5786 | LR: 4.250000e-04
+2026-08-15 08:26:52 |   >> Validation Loss: 3.5426
+2026-08-15 08:26:52 |   --> Seen Generation @ step 850:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng lo lắng về chuyện này.
+--------------------------------------------------
+2026-08-15 08:26:52 | Saving checkpoint to ./checkpoints\step_850...
+2026-08-15 08:26:52 | Checkpoint saved successfully!
+
+2026-08-15 08:26:52 | Deleted old checkpoint: ./checkpoints\step_840
+2026-08-15 08:26:59 | Step 855/1000 | Loss: 3.6237 | LR: 4.275000e-04
+2026-08-15 08:27:02 |   >> Validation Loss: 3.5311
+2026-08-15 08:27:02 |   --> Seen Generation @ step 855:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng có gì là không phải là gì ở đây.
+--------------------------------------------------
+2026-08-15 08:27:02 | Saving checkpoint to ./checkpoints\step_855...
+2026-08-15 08:27:02 | Checkpoint saved successfully!
+
+2026-08-15 08:27:02 | Deleted old checkpoint: ./checkpoints\step_845
+2026-08-15 08:27:09 | Step 860/1000 | Loss: 3.5825 | LR: 4.300000e-04
+2026-08-15 08:27:12 |   >> Validation Loss: 3.5258
+2026-08-15 08:27:12 |   --> Seen Generation @ step 860:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Để tôi không phải là điều đó.
+--------------------------------------------------
+2026-08-15 08:27:12 | Saving checkpoint to ./checkpoints\step_860...
+2026-08-15 08:27:12 | Checkpoint saved successfully!
+
+2026-08-15 08:27:12 | Deleted old checkpoint: ./checkpoints\step_850
+2026-08-15 08:27:19 | Step 865/1000 | Loss: 3.4706 | LR: 4.325000e-04
+2026-08-15 08:27:22 |   >> Validation Loss: 3.5213
+2026-08-15 08:27:22 |   --> Seen Generation @ step 865:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Để tôi không thể làm gì ở đây.
+--------------------------------------------------
+2026-08-15 08:27:22 | Saving checkpoint to ./checkpoints\step_865...
+2026-08-15 08:27:22 | Checkpoint saved successfully!
+
+2026-08-15 08:27:22 | Deleted old checkpoint: ./checkpoints\step_855
+2026-08-15 08:27:29 | Step 870/1000 | Loss: 3.5283 | LR: 4.350000e-04
+2026-08-15 08:27:32 |   >> Validation Loss: 3.5124
+2026-08-15 08:27:32 |   --> Seen Generation @ step 870:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói là, không phải làm thế nào.
+--------------------------------------------------
+2026-08-15 08:27:32 | Saving checkpoint to ./checkpoints\step_870...
+2026-08-15 08:27:32 | Checkpoint saved successfully!
+
+2026-08-15 08:27:32 | Deleted old checkpoint: ./checkpoints\step_860
+2026-08-15 08:27:39 | Step 875/1000 | Loss: 3.4827 | LR: 4.375000e-04
+2026-08-15 08:27:42 |   >> Validation Loss: 3.5035
+2026-08-15 08:27:43 |   --> Seen Generation @ step 875:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì, không phải là gì.
+--------------------------------------------------
+2026-08-15 08:27:43 | Saving checkpoint to ./checkpoints\step_875...
+2026-08-15 08:27:43 | Checkpoint saved successfully!
+
+2026-08-15 08:27:43 | Deleted old checkpoint: ./checkpoints\step_865
+2026-08-15 08:27:49 | Step 880/1000 | Loss: 3.5504 | LR: 4.400000e-04
+2026-08-15 08:27:53 |   >> Validation Loss: 3.4993
+2026-08-15 08:27:53 |   --> Seen Generation @ step 880:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì, không phải là ở đây.
+--------------------------------------------------
+2026-08-15 08:27:53 | Saving checkpoint to ./checkpoints\step_880...
+2026-08-15 08:27:53 | Checkpoint saved successfully!
+
+2026-08-15 08:27:53 | Deleted old checkpoint: ./checkpoints\step_870
+2026-08-15 08:28:00 | Step 885/1000 | Loss: 3.4383 | LR: 4.425000e-04
+2026-08-15 08:28:03 |   >> Validation Loss: 3.4909
+2026-08-15 08:28:03 |   --> Seen Generation @ step 885:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì đó là không phải là ở đây.
+--------------------------------------------------
+2026-08-15 08:28:03 | Saving checkpoint to ./checkpoints\step_885...
+2026-08-15 08:28:03 | Checkpoint saved successfully!
+
+2026-08-15 08:28:03 | Deleted old checkpoint: ./checkpoints\step_875
+2026-08-15 08:28:10 | Step 890/1000 | Loss: 3.7106 | LR: 4.450000e-04
+2026-08-15 08:28:13 |   >> Validation Loss: 3.4841
+2026-08-15 08:28:13 |   --> Seen Generation @ step 890:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói là điều đó không phải là gì.
+--------------------------------------------------
+2026-08-15 08:28:13 | Saving checkpoint to ./checkpoints\step_890...
+2026-08-15 08:28:13 | Checkpoint saved successfully!
+
+2026-08-15 08:28:13 | Deleted old checkpoint: ./checkpoints\step_880
+2026-08-15 08:28:20 | Step 895/1000 | Loss: 3.5236 | LR: 4.475000e-04
+2026-08-15 08:28:23 |   >> Validation Loss: 3.4755
+2026-08-15 08:28:23 |   --> Seen Generation @ step 895:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì đó.
+--------------------------------------------------
+2026-08-15 08:28:23 | Saving checkpoint to ./checkpoints\step_895...
+2026-08-15 08:28:24 | Checkpoint saved successfully!
+
+2026-08-15 08:28:24 | Deleted old checkpoint: ./checkpoints\step_885
+2026-08-15 08:28:30 | Step 900/1000 | Loss: 3.5525 | LR: 4.500000e-04
+2026-08-15 08:28:34 |   >> Validation Loss: 3.4703
+2026-08-15 08:28:34 |   --> Seen Generation @ step 900:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nghĩ là điều đó không có gì ở đây.
+--------------------------------------------------
+2026-08-15 08:28:34 | Saving checkpoint to ./checkpoints\step_900...
+2026-08-15 08:28:34 | Checkpoint saved successfully!
+
+2026-08-15 08:28:34 | Deleted old checkpoint: ./checkpoints\step_890
+2026-08-15 08:28:41 | Step 905/1000 | Loss: 3.5816 | LR: 4.525000e-04
+2026-08-15 08:28:44 |   >> Validation Loss: 3.4663
+2026-08-15 08:28:44 |   --> Seen Generation @ step 905:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nghĩ là điều gì về chuyện này.
+--------------------------------------------------
+2026-08-15 08:28:44 | Saving checkpoint to ./checkpoints\step_905...
+2026-08-15 08:28:44 | Checkpoint saved successfully!
+
+2026-08-15 08:28:44 | Deleted old checkpoint: ./checkpoints\step_895
+2026-08-15 08:28:51 | Step 910/1000 | Loss: 3.5781 | LR: 4.550000e-04
+2026-08-15 08:28:54 |   >> Validation Loss: 3.4580
+2026-08-15 08:28:54 |   --> Seen Generation @ step 910:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nghĩ là gì đó không phải là gì.
+--------------------------------------------------
+2026-08-15 08:28:54 | Saving checkpoint to ./checkpoints\step_910...
+2026-08-15 08:28:54 | Checkpoint saved successfully!
+
+2026-08-15 08:28:54 | Deleted old checkpoint: ./checkpoints\step_900
+2026-08-15 08:29:01 | Step 915/1000 | Loss: 3.3769 | LR: 4.575000e-04
+2026-08-15 08:29:04 |   >> Validation Loss: 3.4525
+2026-08-15 08:29:04 |   --> Seen Generation @ step 915:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nghĩ là điều gì không phải là gì.
+--------------------------------------------------
+2026-08-15 08:29:04 | Saving checkpoint to ./checkpoints\step_915...
+2026-08-15 08:29:04 | Checkpoint saved successfully!
+
+2026-08-15 08:29:04 | Deleted old checkpoint: ./checkpoints\step_905
+2026-08-15 08:29:11 | Step 920/1000 | Loss: 3.4543 | LR: 4.600000e-04
+2026-08-15 08:29:14 |   >> Validation Loss: 3.4458
+2026-08-15 08:29:14 |   --> Seen Generation @ step 920:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nghĩ là gì không phải là gì.
+--------------------------------------------------
+2026-08-15 08:29:14 | Saving checkpoint to ./checkpoints\step_920...
+2026-08-15 08:29:14 | Checkpoint saved successfully!
+
+2026-08-15 08:29:14 | Deleted old checkpoint: ./checkpoints\step_910
+2026-08-15 08:29:21 | Step 925/1000 | Loss: 3.5562 | LR: 4.625000e-04
+2026-08-15 08:29:24 |   >> Validation Loss: 3.4376
+2026-08-15 08:29:25 |   --> Seen Generation @ step 925:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói gì, đây không phải là ở đây.
+--------------------------------------------------
+2026-08-15 08:29:25 | Saving checkpoint to ./checkpoints\step_925...
+2026-08-15 08:29:25 | Checkpoint saved successfully!
+
+2026-08-15 08:29:25 | Deleted old checkpoint: ./checkpoints\step_915
+2026-08-15 08:29:31 | Step 930/1000 | Loss: 3.4953 | LR: 4.650000e-04
+2026-08-15 08:29:35 |   >> Validation Loss: 3.4337
+2026-08-15 08:29:35 |   --> Seen Generation @ step 930:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói chuyện gì cả.
+--------------------------------------------------
+2026-08-15 08:29:35 | Saving checkpoint to ./checkpoints\step_930...
+2026-08-15 08:29:35 | Checkpoint saved successfully!
+
+2026-08-15 08:29:35 | Deleted old checkpoint: ./checkpoints\step_920
+2026-08-15 08:29:42 | Step 935/1000 | Loss: 3.4144 | LR: 4.675000e-04
+2026-08-15 08:29:45 |   >> Validation Loss: 3.4273
+2026-08-15 08:29:45 |   --> Seen Generation @ step 935:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, điều đó là điều đó không có gì ở đây.
+--------------------------------------------------
+2026-08-15 08:29:45 | Saving checkpoint to ./checkpoints\step_935...
+2026-08-15 08:29:45 | Checkpoint saved successfully!
+
+2026-08-15 08:29:45 | Deleted old checkpoint: ./checkpoints\step_925
+2026-08-15 08:29:52 | Step 940/1000 | Loss: 3.4405 | LR: 4.700000e-04
+2026-08-15 08:29:55 |   >> Validation Loss: 3.4239
+2026-08-15 08:29:55 |   --> Seen Generation @ step 940:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, đây không phải là điều đó không có gì.
+--------------------------------------------------
+2026-08-15 08:29:55 | Saving checkpoint to ./checkpoints\step_940...
+2026-08-15 08:29:55 | Checkpoint saved successfully!
+
+2026-08-15 08:29:55 | Deleted old checkpoint: ./checkpoints\step_930
+2026-08-15 08:30:02 | Step 945/1000 | Loss: 3.3625 | LR: 4.725000e-04
+2026-08-15 08:30:05 |   >> Validation Loss: 3.4166
+2026-08-15 08:30:05 |   --> Seen Generation @ step 945:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Được rồi, đây là điều đó không phải là ở đây.
+--------------------------------------------------
+2026-08-15 08:30:05 | Saving checkpoint to ./checkpoints\step_945...
+2026-08-15 08:30:05 | Checkpoint saved successfully!
+
+2026-08-15 08:30:05 | Deleted old checkpoint: ./checkpoints\step_935
+2026-08-15 08:30:12 | Step 950/1000 | Loss: 3.3846 | LR: 4.750000e-04
+2026-08-15 08:30:15 |   >> Validation Loss: 3.4102
+2026-08-15 08:30:16 |   --> Seen Generation @ step 950:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói là điều gì không có thể ở đây.
+--------------------------------------------------
+2026-08-15 08:30:16 | Saving checkpoint to ./checkpoints\step_950...
+2026-08-15 08:30:16 | Checkpoint saved successfully!
+
+2026-08-15 08:30:16 | Deleted old checkpoint: ./checkpoints\step_940
+2026-08-15 08:30:23 | Step 955/1000 | Loss: 3.4718 | LR: 4.775000e-04
+2026-08-15 08:30:26 |   >> Validation Loss: 3.4099
+2026-08-15 08:30:26 |   --> Seen Generation @ step 955:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói, đó là điều gì đã không phải ở đây.
+--------------------------------------------------
+2026-08-15 08:30:26 | Saving checkpoint to ./checkpoints\step_955...
+2026-08-15 08:30:26 | Checkpoint saved successfully!
+
+2026-08-15 08:30:26 | Deleted old checkpoint: ./checkpoints\step_945
+2026-08-15 08:30:33 | Step 960/1000 | Loss: 3.3446 | LR: 4.800000e-04
+2026-08-15 08:30:36 |   >> Validation Loss: 3.3984
+2026-08-15 08:30:36 |   --> Seen Generation @ step 960:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói, đó là chuyện này không phải ở đây.
+--------------------------------------------------
+2026-08-15 08:30:36 | Saving checkpoint to ./checkpoints\step_960...
+2026-08-15 08:30:36 | Checkpoint saved successfully!
+
+2026-08-15 08:30:36 | Deleted old checkpoint: ./checkpoints\step_950
+2026-08-15 08:30:43 | Step 965/1000 | Loss: 3.3095 | LR: 4.825000e-04
+2026-08-15 08:30:46 |   >> Validation Loss: 3.3970
+2026-08-15 08:30:46 |   --> Seen Generation @ step 965:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Cho tôi nói gì, đó không phải là ở đây.
+--------------------------------------------------
+2026-08-15 08:30:46 | Saving checkpoint to ./checkpoints\step_965...
+2026-08-15 08:30:46 | Checkpoint saved successfully!
+
+2026-08-15 08:30:46 | Deleted old checkpoint: ./checkpoints\step_955
+2026-08-15 08:30:53 | Step 970/1000 | Loss: 3.3839 | LR: 4.850000e-04
+2026-08-15 08:30:57 |   >> Validation Loss: 3.3852
+2026-08-15 08:30:57 |   --> Seen Generation @ step 970:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói gì, nó không phải ở đây.
+--------------------------------------------------
+2026-08-15 08:30:57 | Saving checkpoint to ./checkpoints\step_970...
+2026-08-15 08:30:57 | Checkpoint saved successfully!
+
+2026-08-15 08:30:57 | Deleted old checkpoint: ./checkpoints\step_960
+2026-08-15 08:31:04 | Step 975/1000 | Loss: 3.4294 | LR: 4.875000e-04
+2026-08-15 08:31:07 |   >> Validation Loss: 3.3757
+2026-08-15 08:31:07 |   --> Seen Generation @ step 975:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng có gì, điều đó không phải ở đây.
+--------------------------------------------------
+2026-08-15 08:31:07 | Saving checkpoint to ./checkpoints\step_975...
+2026-08-15 08:31:07 | Checkpoint saved successfully!
+
+2026-08-15 08:31:07 | Deleted old checkpoint: ./checkpoints\step_965
+2026-08-15 08:31:14 | Step 980/1000 | Loss: 3.5404 | LR: 4.900000e-04
+2026-08-15 08:31:17 |   >> Validation Loss: 3.3725
+2026-08-15 08:31:17 |   --> Seen Generation @ step 980:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nói gì là không phải ở đây.
+--------------------------------------------------
+2026-08-15 08:31:17 | Saving checkpoint to ./checkpoints\step_980...
+2026-08-15 08:31:17 | Checkpoint saved successfully!
+
+2026-08-15 08:31:17 | Deleted old checkpoint: ./checkpoints\step_970
+2026-08-15 08:31:25 | Step 985/1000 | Loss: 3.3384 | LR: 4.925000e-04
+2026-08-15 08:31:28 |   >> Validation Loss: 3.3607
+2026-08-15 08:31:28 |   --> Seen Generation @ step 985:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng có gì, điều đó không phải ở đây.
+--------------------------------------------------
+2026-08-15 08:31:28 | Saving checkpoint to ./checkpoints\step_985...
+2026-08-15 08:31:28 | Checkpoint saved successfully!
+
+2026-08-15 08:31:28 | Deleted old checkpoint: ./checkpoints\step_975
+2026-08-15 08:31:35 | Step 990/1000 | Loss: 3.3870 | LR: 4.950000e-04
+2026-08-15 08:31:38 |   >> Validation Loss: 3.3519
+2026-08-15 08:31:38 |   --> Seen Generation @ step 990:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nghĩ là điều đó không có ở đây.
+--------------------------------------------------
+2026-08-15 08:31:38 | Saving checkpoint to ./checkpoints\step_990...
+2026-08-15 08:31:38 | Checkpoint saved successfully!
+
+2026-08-15 08:31:38 | Deleted old checkpoint: ./checkpoints\step_980
+2026-08-15 08:31:45 | Step 995/1000 | Loss: 3.2808 | LR: 4.975000e-04
+2026-08-15 08:31:48 |   >> Validation Loss: 3.3449
+2026-08-15 08:31:48 |   --> Seen Generation @ step 995:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Đừng nghĩ rằng, điều đó không có ở đây.
+--------------------------------------------------
+2026-08-15 08:31:48 | Saving checkpoint to ./checkpoints\step_995...
+2026-08-15 08:31:48 | Checkpoint saved successfully!
+
+2026-08-15 08:31:48 | Deleted old checkpoint: ./checkpoints\step_985
+2026-08-15 08:31:55 | Step 1000/1000 | Loss: 3.3138 | LR: 5.000000e-04
+2026-08-15 08:31:59 |   >> Validation Loss: 3.3415
+2026-08-15 08:31:59 |   --> Seen Generation @ step 1000:
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output: Sẽ ra, điều đó không phải ở đây.
+--------------------------------------------------
+2026-08-15 08:31:59 | Saving checkpoint to ./checkpoints\step_1000...
+2026-08-15 08:31:59 | Checkpoint saved successfully!
+
+2026-08-15 08:31:59 | Deleted old checkpoint: ./checkpoints\step_990
+2026-08-15 08:31:59 | Training finished!
