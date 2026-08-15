@@ -1,0 +1,44 @@
+{
+  "data_paths": {
+    "data_file": "train_5k.jsonl",
+    "checkpoint_dir": "./checkpoints",
+    "gguf_output_path": "model.gguf"
+  },
+  "tokenizer": {
+    "vocab_size": 6000,
+    "unk_token": "<unk>",
+    "bos_token": "<s>",
+    "eos_token": "</s>",
+    "pad_token": "<pad>"
+  },
+  "model": {
+    "hidden_size": 256,
+    "intermediate_size": 688,
+    "num_hidden_layers": 6,
+    "num_attention_heads": 8,
+    "max_position_embeddings": 192
+  },
+  "dataset": {
+    "max_sequence_length": 256,
+    "ignore_index": -100,
+    "batch_size": 8,
+    "accumulation_steps": 4,
+    "val_split": 200
+  },
+  "regularization": {
+    "attention_dropout": 0.1,
+    "weight_decay": 0.01
+  },
+  "training": {
+    "learning_rate": 5e-4,
+    "steps_per_run": 500,
+    "log_interval": 10,
+    "save_interval": 50,
+    "total_training_steps": 3000,
+    "warmup_steps": 300
+  },
+  "evaluation": {
+    "test_prompt": "Input: Translate to Vietnamese: Sorry, that question's not on here.\nOutput:",
+    "max_new_tokens": 100
+  }
+}
