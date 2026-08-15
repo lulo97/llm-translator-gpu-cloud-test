@@ -21,8 +21,8 @@
   "dataset": {
     "max_sequence_length": 256,
     "ignore_index": -100,
-    "batch_size": 1,
-    "accumulation_steps": 256,
+    "batch_size": 512,
+    "accumulation_steps": 1,
     "val_split": 3000
   },
   "regularization": {
@@ -35,7 +35,14 @@
     "log_interval": 5,
     "save_interval": 5,
     "total_training_steps": 12000,
-    "warmup_steps": 1000
+    "warmup_steps": 1000,
+    "bf16": true,
+    "tf32": true,
+    "dataloader_num_workers": 8,
+    "dataloader_pin_memory": true,
+    "optim": "adamw_torch_fused",
+    "gradient_checkpointing": false,
+    "torch_compile": false
   },
   "evaluation": {
     "test_prompt": "Input: Translate to Vietnamese: Sorry, that question's not on here.\nOutput:",
