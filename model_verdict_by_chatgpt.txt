@@ -1,0 +1,1180 @@
+Input: Translate to Vietnamese: The cat is sleeping on the sofa.
+Output:
+Con mèo đang ngủ trên ngực.
+Input: Translate to Vietnamese: He wants you to come with him immediately.
+Output:
+Hắn muốn cậu đi cùng hắn ngay.
+Input: Translate to Vietnamese: I thought we could use this room for the meeting.
+Output:
+Tôi nghĩ chúng ta có thể dùng phòng này để gặp nhau.
+Input: Translate to Vietnamese: Sorry, that question's not on here.
+Output:
+Xin lỗi, câu hỏi đó không phải ở đây.
+Input: Translate to Vietnamese: She went to the store to buy some fresh vegetables.
+Output:
+Cô ấy đi mua một số loại rau quả.
+Input: Translate to Vietnamese: They have been waiting for you since morning.
+Output:
+Họ đã chờ anh từ sáng rồi.
+Input: Translate to Vietnamese: I don't know what happened yesterday.
+Output:
+Tôi không biết chuyện gì đã xảy ra hôm qua.
+Input: Translate to Vietnamese: Please close the door before you leave.
+Output:
+Làm ơn đóng cửa trước khi anh rời đi.
+Input: Translate to Vietnamese: He was driving home when it started to rain.
+Output:
+Anh ta lái xe về nhà khi nó bắt đầu mưa.
+Input: Translate to Vietnamese: We should talk about this later.
+Output:
+Chúng ta nên nói về chuyện này sau.
+Input: Translate to Vietnamese: She has never visited Vietnam before.
+Output:
+Cô ấy chưa bao giờ đến thăm Việt Nam trước đây.
+Input: Translate to Vietnamese: Can you help me carry these boxes?
+Output:
+Anh giúp tôi mang mấy cái hộp này được không?
+Input: Translate to Vietnamese: I will call you when I arrive.
+Output:
+Tôi sẽ gọi cho anh khi tôi đến.
+Input: Translate to Vietnamese: He didn't understand what she was saying.
+Output:
+Anh ấy không hiểu cô ấy nói gì.
+Input: Translate to Vietnamese: The weather was much colder than I expected.
+Output:
+Thời tiết lạnh hơn tôi mong đợi.
+Input: Translate to Vietnamese: They decided to leave early because of the traffic.
+Output:
+Họ quyết định rời khỏi sớm vì giao thông.
+Input: Translate to Vietnamese: I have already finished my homework.
+Output:
+Tôi đã hoàn thành bài tập về nhà.
+Input: Translate to Vietnamese: She looked at me and smiled.
+Output:
+Cô ấy nhìn tôi và cười.
+Input: Translate to Vietnamese: Don't forget to send me the file tonight.
+Output:
+Đừng quên gửi cho tôi hồ sơ tối nay.
+Input: Translate to Vietnamese: We were talking about the movie when he arrived.
+Output:
+Chúng tôi đang nói về bộ phim khi anh ta đến.
+Input: Translate to Vietnamese: The dog is sleeping under the table.
+Output:
+Con chó ngủ dưới bàn.
+Input: Translate to Vietnamese: The book is on the wooden table.
+Output:
+Cuốn sách nằm trên bàn gỗ.
+Input: Translate to Vietnamese: Please open the window.
+Output:
+Làm ơn mở cửa sổ.
+Input: Translate to Vietnamese: Please close the window.
+Output:
+Làm ơn đóng cửa sổ.
+Input: Translate to Vietnamese: She is sitting on a chair.
+Output:
+Cô ấy đang ngồi trên ghế.
+Input: Translate to Vietnamese: He put his phone on the desk.
+Output:
+Hắn đã đặt điện thoại lên bàn.
+Input: Translate to Vietnamese: The children are playing in the garden.
+Output:
+Những đứa trẻ đang chơi trong vườn.
+Input: Translate to Vietnamese: My brother is cooking dinner.
+Output:
+Anh trai tôi đang nấu ăn bữa tối.
+Input: Translate to Vietnamese: My sister is reading a book.
+Output:
+Em gái tôi đang đọc sách.
+Input: Translate to Vietnamese: The baby is sleeping in the bedroom.
+Output:
+Con bé đang ngủ trong phòng ngủ.
+Input: Translate to Vietnamese: I bought a new computer yesterday.
+Output:
+Tôi mua một chiếc máy tính mới hôm qua.
+Input: Translate to Vietnamese: She bought some fresh fruit at the market.
+Output:
+Cô ấy mua một ít trái cây ở chợ.
+Input: Translate to Vietnamese: He bought three bottles of water.
+Output:
+Ông đã mua ba chai nước.
+Input: Translate to Vietnamese: We need to buy some milk.
+Output:
+Chúng ta cần mua sữa.
+Input: Translate to Vietnamese: They bought a new car last week.
+Output:
+Họ mua một chiếc xe mới vào tuần trước.
+Input: Translate to Vietnamese: I need a pen to write this down.
+Output:
+Tôi cần một cây gậy để viết cái này.
+Input: Translate to Vietnamese: She needs a new pair of shoes.
+Output:
+Cô ấy cần một cặp đôi mới.
+Input: Translate to Vietnamese: He forgot his wallet at home.
+Output:
+Hắn quên cái ví của mình ở nhà.
+Input: Translate to Vietnamese: I left my keys on the table.
+Output:
+Tôi đã bỏ chìa khóa của tôi trên bàn.
+Input: Translate to Vietnamese: She lost her phone this morning.
+Output:
+Cô ấy đã mất điện thoại vào sáng nay.
+Input: Translate to Vietnamese: The man is standing near the door.
+Output:
+Người đứng gần cửa.
+Input: Translate to Vietnamese: The woman is waiting outside the store.
+Output:
+Người phụ nữ đang chờ bên ngoài cửa hàng.
+Input: Translate to Vietnamese: The children are running across the street.
+Output:
+Con cái đang chạy qua đường.
+Input: Translate to Vietnamese: The car is parked in front of the house.
+Output:
+Cái xe được chôn ở trước nhà.
+Input: Translate to Vietnamese: There is a small dog beside the chair.
+Output:
+Có một con chó nhỏ bên cạnh ghế.
+Input: Translate to Vietnamese: The keys are inside the drawer.
+Output:
+Chìa khóa bên trong cổng.
+Input: Translate to Vietnamese: My bag is under the bed.
+Output:
+Túi tôi đang ở dưới giường.
+Input: Translate to Vietnamese: Your phone is next to the computer.
+Output:
+Điện thoại của anh là tiếp theo máy tính.
+Input: Translate to Vietnamese: The restaurant is across from the hotel.
+Output:
+Nhà hàng ở khắp khách sạn.
+Input: Translate to Vietnamese: The school is behind the park.
+Output:
+Trường ở sau công viên.
+Input: Translate to Vietnamese: I wake up at seven every morning.
+Output:
+Tôi thức dậy lúc 7 giờ sáng.
+Input: Translate to Vietnamese: She goes to work by bus every day.
+Output:
+Cô ấy đi làm việc hàng ngày.
+Input: Translate to Vietnamese: He usually drinks coffee in the morning.
+Output:
+Hắn thường uống cà phê vào buổi sáng.
+Input: Translate to Vietnamese: We often eat dinner together.
+Output:
+Chúng ta thường ăn bữa tối cùng nhau.
+Input: Translate to Vietnamese: They sometimes watch movies at night.
+Output:
+Đôi khi họ có những bộ phim múa mì vào ban đêm.
+Input: Translate to Vietnamese: I never drink coffee after dinner.
+Output:
+Tôi chưa bao giờ uống cà phê sau bữa tối.
+Input: Translate to Vietnamese: She always arrives on time.
+Output:
+Cô ấy luôn đến lúc.
+Input: Translate to Vietnamese: He rarely goes to the cinema.
+Output:
+Hắn hiếm khi đi đến phòng khám.
+Input: Translate to Vietnamese: We usually have lunch at noon.
+Output:
+Chúng ta thường ăn trưa không.
+Input: Translate to Vietnamese: They often visit their parents on weekends.
+Output:
+Họ thường đến thăm cha mẹ của họ vào cuối tuần.
+Input: Translate to Vietnamese: I am eating breakfast now.
+Output:
+Tôi đang ăn sáng rồi.
+Input: Translate to Vietnamese: She is washing the dishes.
+Output:
+Cô ấy đang giặt đồ ăn.
+Input: Translate to Vietnamese: He is fixing his bicycle.
+Output:
+Anh ta đang sửa xe của mình.
+Input: Translate to Vietnamese: They are watching television.
+Output:
+Chúng đang đi theo truyền hình.
+Input: Translate to Vietnamese: We are waiting for the bus.
+Output:
+Chúng ta đang chờ xe buýt.
+Input: Translate to Vietnamese: The teacher is writing on the board.
+Output:
+Bác sĩ đang viết trên bảng.
+Input: Translate to Vietnamese: The students are studying English.
+Output:
+Các sinh viên đang học tiếng Anh.
+Input: Translate to Vietnamese: My mother is preparing dinner.
+Output:
+Mẹ tôi đang chuẩn bị bữa tối.
+Input: Translate to Vietnamese: My father is reading the newspaper.
+Output:
+Cha tôi đang đọc báo.
+Input: Translate to Vietnamese: The birds are flying over the house.
+Output:
+Các con chim bay qua nhà.
+Input: Translate to Vietnamese: I went to the supermarket yesterday.
+Output:
+Tôi đã đến siêu thị hôm qua.
+Input: Translate to Vietnamese: She visited her grandmother last Sunday.
+Output:
+Cô ấy đến thăm bà nội của cô ấy vào Chủ nhật.
+Input: Translate to Vietnamese: He finished his work early.
+Output:
+Ông đã hoàn thành công việc đầu tiên.
+Input: Translate to Vietnamese: We watched a movie last night.
+Output:
+Chúng tôi đã đánh chìm một bộ phim đêm qua.
+Input: Translate to Vietnamese: They arrived at the station at eight.
+Output:
+Họ đến nhà ga lúc 8 giờ.
+Input: Translate to Vietnamese: I called my friend yesterday.
+Output:
+Tôi đã gọi cho bạn tôi hôm qua.
+Input: Translate to Vietnamese: She opened the door slowly.
+Output:
+Cô ấy mở cửa chậm lại.
+Input: Translate to Vietnamese: He closed the book and stood up.
+Output:
+Ông đã đóng lại cuốn sách và đứng lên.
+Input: Translate to Vietnamese: We cleaned the house this morning.
+Output:
+Chúng tôi đã làm sạch ngôi nhà sáng nay.
+Input: Translate to Vietnamese: They played football after school.
+Output:
+Họ chơi bóng đá sau khi học trường.
+Input: Translate to Vietnamese: I will visit you tomorrow.
+Output:
+Ngày mai tôi sẽ đến thăm anh.
+Input: Translate to Vietnamese: She will call you later.
+Output:
+Cô ấy sẽ gọi cho cô sau.
+Input: Translate to Vietnamese: He will arrive in an hour.
+Output:
+Hắn sẽ đến một giờ.
+Input: Translate to Vietnamese: We will meet at the station tomorrow.
+Output:
+Chúng ta sẽ gặp nhau ở trạm ngày mai.
+Input: Translate to Vietnamese: They will move to a new house next month.
+Output:
+Họ sẽ chuyển đến một ngôi nhà mới vào tháng sau.
+Input: Translate to Vietnamese: I will send you the document tonight.
+Output:
+Tối nay tôi sẽ gửi cho anh tài liệu.
+Input: Translate to Vietnamese: She will start a new job next week.
+Output:
+Cô ấy sẽ bắt đầu một công việc mới vào tuần sau.
+Input: Translate to Vietnamese: He will buy a new phone soon.
+Output:
+Hắn sẽ mua điện thoại mới ngay.
+Input: Translate to Vietnamese: We will talk about it tomorrow.
+Output:
+Chúng ta sẽ nói về nó vào ngày mai.
+Input: Translate to Vietnamese: They will come back next year.
+Output:
+Họ sẽ đến đây vào năm sau.
+Input: Translate to Vietnamese: I have already eaten lunch.
+Output:
+Tôi đã ăn trưa rồi.
+Input: Translate to Vietnamese: She has already left the office.
+Output:
+Cô ấy đã rời khỏi văn phòng.
+Input: Translate to Vietnamese: He has just arrived home.
+Output:
+Hắn vừa mới về nhà.
+Input: Translate to Vietnamese: We have finished the project.
+Output:
+Chúng tôi đã hoàn thành dự án.
+Input: Translate to Vietnamese: They have never seen this movie.
+Output:
+Họ chưa bao giờ thấy bộ phim này.
+Input: Translate to Vietnamese: I have never been to Japan.
+Output:
+Tôi chưa bao giờ đến Nhật Bản.
+Input: Translate to Vietnamese: She has lived here for five years.
+Output:
+Cô ấy đã sống ở đây 5 năm.
+Input: Translate to Vietnamese: He has worked there since 2020.
+Output:
+Ông đã làm việc ở đó từ năm 2020.
+Input: Translate to Vietnamese: We have known each other for a long time.
+Output:
+Chúng ta đã biết nhau nhiều lần rồi.
+Input: Translate to Vietnamese: They have been waiting for an hour.
+Output:
+Họ đã chờ một tiếng rồi.
+Input: Translate to Vietnamese: I can help you with this problem.
+Output:
+Tôi có thể giúp anh vấn đề này.
+Input: Translate to Vietnamese: She can speak three languages.
+Output:
+Cô ấy có thể nói chuyện ba ngôn ngữ.
+Input: Translate to Vietnamese: He cannot find his keys.
+Output:
+Hắn không thể tìm thấy chìa khóa của mình.
+Input: Translate to Vietnamese: Can you open this bottle?
+Output:
+Anh mở cái chai này được không?
+Input: Translate to Vietnamese: Could you help me with this box?
+Output:
+Anh có thể giúp tôi bằng cái hộp này không?
+Input: Translate to Vietnamese: We should leave now.
+Output:
+Chúng ta nên đi ngay.
+Input: Translate to Vietnamese: You should talk to your teacher.
+Output:
+Anh nên nói chuyện với giáo viên của anh.
+Input: Translate to Vietnamese: You must wear a seat belt.
+Output:
+Chắc chúng ta có một cái ghế dưới đáy.
+Input: Translate to Vietnamese: He has to work tomorrow.
+Output:
+Ngày mai anh ta phải làm việc.
+Input: Translate to Vietnamese: We don't have to leave yet.
+Output:
+Chúng ta chưa cần phải rời khỏi đây.
+Input: Translate to Vietnamese: Don't open that door.
+Output:
+Đừng mở cửa đó.
+Input: Translate to Vietnamese: Don't forget your keys.
+Output:
+Đừng quên chìa khóa của anh.
+Input: Translate to Vietnamese: Please wait here.
+Output:
+Xin hãy chờ đợi ở đây.
+Input: Translate to Vietnamese: Please sit down.
+Output:
+Xin hãy ngồi xuống.
+Input: Translate to Vietnamese: Please turn off the light.
+Output:
+Làm ơn tắt đèn.
+Input: Translate to Vietnamese: Please turn on the television.
+Output:
+Làm ơn bật TV đi.
+Input: Translate to Vietnamese: Don't touch my computer.
+Output:
+Đừng chạm vào máy tính của tôi.
+Input: Translate to Vietnamese: Don't make so much noise.
+Output:
+Đừng làm thế nhiều tiếng động.
+Input: Translate to Vietnamese: Please give me the book.
+Output:
+Làm ơn cho tôi cuốn sách.
+Input: Translate to Vietnamese: Please put the box on the table.
+Output:
+Làm ơn đặt hộp lên bàn.
+Input: Translate to Vietnamese: Why are you late?
+Output:
+Sao anh lại muộn thế?
+Input: Translate to Vietnamese: What are you doing?
+Output:
+Anh đang làm gì vậy?
+Input: Translate to Vietnamese: Where did you put my phone?
+Output:
+Anh đã đặt điện thoại của tôi ở đâu?
+Input: Translate to Vietnamese: When will you come back?
+Output:
+Khi nào anh đến đây?
+Input: Translate to Vietnamese: Who called you last night?
+Output:
+Ai gọi anh tối qua?
+Input: Translate to Vietnamese: How did you open the door?
+Output:
+Làm sao anh mở cửa?
+Input: Translate to Vietnamese: Why didn't she come yesterday?
+Output:
+Sao cô ấy không đến ngày hôm qua?
+Input: Translate to Vietnamese: What happened to your car?
+Output:
+Chuyện gì đã xảy ra với xe của anh?
+Input: Translate to Vietnamese: Where can I buy fresh vegetables?
+Output:
+Tôi mua sữa tươi ở đâu?
+Input: Translate to Vietnamese: How long have you lived here?
+Output:
+Anh đã sống ở đây bao lâu rồi?
+Input: Translate to Vietnamese: I don't understand this question.
+Output:
+Tôi không hiểu câu hỏi này.
+Input: Translate to Vietnamese: She doesn't like cold weather.
+Output:
+Cô ấy không thích thời tiết lạnh.
+Input: Translate to Vietnamese: He doesn't know the answer.
+Output:
+Anh ta không biết câu trả lời.
+Input: Translate to Vietnamese: We don't have enough time.
+Output:
+Chúng ta không có đủ thời gian.
+Input: Translate to Vietnamese: They didn't see the accident.
+Output:
+Họ không thấy tai nạn.
+Input: Translate to Vietnamese: I didn't hear the phone.
+Output:
+Tôi không nghe điện thoại.
+Input: Translate to Vietnamese: She wasn't at home yesterday.
+Output:
+Cô ấy không ở nhà hôm qua.
+Input: Translate to Vietnamese: He wasn't feeling well.
+Output:
+Anh ta không cảm thấy tốt.
+Input: Translate to Vietnamese: We haven't finished yet.
+Output:
+Chúng ta vẫn chưa hoàn thành.
+Input: Translate to Vietnamese: They haven't arrived yet.
+Output:
+Họ chưa đến.
+Input: Translate to Vietnamese: The weather is very hot today.
+Output:
+Thời tiết rất nóng.
+Input: Translate to Vietnamese: It was colder than I expected.
+Output:
+Nó là màu da hơn tôi mong đợi.
+Input: Translate to Vietnamese: The room is too small.
+Output:
+Căn phòng quá nhỏ.
+Input: Translate to Vietnamese: This box is very heavy.
+Output:
+Cái hộp này rất nặng.
+Input: Translate to Vietnamese: That bag is lighter than mine.
+Output:
+Cái túi đó nhẹ hơn tôi.
+Input: Translate to Vietnamese: The movie was more interesting than I expected.
+Output:
+Bộ phim này rất thú vị hơn tôi mong đợi.
+Input: Translate to Vietnamese: This problem is easier than the last one.
+Output:
+Vấn đề này dễ hơn so với cái cuối cùng.
+Input: Translate to Vietnamese: She is taller than her sister.
+Output:
+Cô ấy cao hơn chị gái.
+Input: Translate to Vietnamese: He runs faster than me.
+Output:
+Anh ta chạy nhanh hơn tôi.
+Input: Translate to Vietnamese: This is the best restaurant in town.
+Output:
+Đây là nhà hàng tốt nhất trong thị trấn.
+Input: Translate to Vietnamese: I was cooking when she called me.
+Output:
+Tôi đã nấu khi cô ấy gọi tôi.
+Input: Translate to Vietnamese: He was sleeping when I arrived.
+Output:
+Anh ấy ngủ khi tôi đến.
+Input: Translate to Vietnamese: They were playing outside when it started raining.
+Output:
+Họ đang chơi bên ngoài khi nó bắt đầu mưa.
+Input: Translate to Vietnamese: We were talking when the teacher entered the room.
+Output:
+Chúng tôi đang nói khi giáo viên bước vào phòng.
+Input: Translate to Vietnamese: She was reading when the phone rang.
+Output:
+Cô ấy đọc khi điện thoại chạy.
+Input: Translate to Vietnamese: I was walking home when I saw him.
+Output:
+Tôi đã đi về nhà khi thấy anh ấy.
+Input: Translate to Vietnamese: He was driving when the accident happened.
+Output:
+Anh ta lái xe khi tai nạn xảy ra.
+Input: Translate to Vietnamese: They were eating dinner when we arrived.
+Output:
+Họ ăn tối khi chúng tôi đến.
+Input: Translate to Vietnamese: We were watching TV when the power went out.
+Output:
+Chúng tôi đang đi tắm TV khi sức mạnh ra đi.
+Input: Translate to Vietnamese: She was working when I called her.
+Output:
+Cô ấy làm việc khi tôi gọi cô ấy.
+Input: Translate to Vietnamese: I stayed home because it was raining.
+Output:
+Tôi ở nhà vì nó mưa.
+Input: Translate to Vietnamese: She went home because she was tired.
+Output:
+Cô ấy đã về nhà vì cô ấy mệt mỏi.
+Input: Translate to Vietnamese: We left early because of the traffic.
+Output:
+Chúng tôi đã rời khỏi sớm vì giao thông.
+Input: Translate to Vietnamese: He couldn't come because he was sick.
+Output:
+Hắn không thể đến vì hắn là sick.
+Input: Translate to Vietnamese: I stayed late because I had work to finish.
+Output:
+Tôi đã ở lại muộn vì tôi đã làm việc để hoàn thành.
+Input: Translate to Vietnamese: She smiled because she was happy.
+Output:
+Cô ấy cười vì cô ấy hạnh phúc.
+Input: Translate to Vietnamese: They canceled the trip because of the bad weather.
+Output:
+Họ hủy chuyến đi vì thời tiết xấu.
+Input: Translate to Vietnamese: We took a taxi because we were late.
+Output:
+Chúng tôi đã lấy taxi vì chúng tôi đã trễ.
+Input: Translate to Vietnamese: He closed the window because it was cold.
+Output:
+Ông ta đóng cửa sổ vì nó lạnh.
+Input: Translate to Vietnamese: I called you because I needed your help.
+Output:
+Tôi đã gọi cho anh vì tôi cần sự giúp đỡ của anh.
+Input: Translate to Vietnamese: If it rains, we will stay home.
+Output:
+Nếu trời mưa, chúng ta sẽ ở nhà.
+Input: Translate to Vietnamese: If you need help, call me.
+Output:
+Nếu anh cần giúp, gọi tôi.
+Input: Translate to Vietnamese: If she comes tomorrow, we can talk to her.
+Output:
+Nếu cô ấy đến ngày mai, chúng ta có thể nói chuyện với cô ấy.
+Input: Translate to Vietnamese: If I have time, I will visit you.
+Output:
+Nếu tôi có thời gian, tôi sẽ đến thăm cô.
+Input: Translate to Vietnamese: If they arrive early, we will start the meeting.
+Output:
+Nếu họ đến sớm, chúng ta sẽ bắt đầu cuộc họp.
+Input: Translate to Vietnamese: If you study hard, you will pass the exam.
+Output:
+Nếu bạn nghiên cứu khó khăn, bạn sẽ làm hỏng mọi thứ.
+Input: Translate to Vietnamese: If he calls, please tell me.
+Output:
+Nếu hắn gọi, hãy nói cho tôi nghe.
+Input: Translate to Vietnamese: If we leave now, we can catch the bus.
+Output:
+Nếu chúng ta rời khỏi đây, chúng ta có thể catch xe buýt.
+Input: Translate to Vietnamese: If the store is open, I will buy some food.
+Output:
+Nếu cửa hàng mở, tôi sẽ mua một ít thức ăn.
+Input: Translate to Vietnamese: If you are tired, you should rest.
+Output:
+Nếu anh mệt, thì anh nên nghỉ ngơi.
+Input: Translate to Vietnamese: I gave her the book yesterday.
+Output:
+Tôi đã đưa cô ấy cuốn sách hôm qua.
+Input: Translate to Vietnamese: She gave me a glass of water.
+Output:
+Cô ấy đã cho tôi một đống nước.
+Input: Translate to Vietnamese: He sent his friend a message.
+Output:
+Hắn đã gửi bạn của mình một thông điệp.
+Input: Translate to Vietnamese: I told him the truth.
+Output:
+Tôi đã nói với anh ta sự thật.
+Input: Translate to Vietnamese: She asked me a difficult question.
+Output:
+Cô ấy hỏi tôi một câu hỏi khó.
+Input: Translate to Vietnamese: He showed me his new car.
+Output:
+Anh ta cho tôi thấy chiếc xe mới của mình.
+Input: Translate to Vietnamese: We bought our mother some flowers.
+Output:
+Chúng tôi mua cho mẹ mình một ít hoa.
+Input: Translate to Vietnamese: They sent us the documents yesterday.
+Output:
+Họ gửi chúng tôi tài liệu hôm qua.
+Input: Translate to Vietnamese: I gave my brother the keys.
+Output:
+Tôi đã cho anh trai tôi chìa khóa.
+Input: Translate to Vietnamese: She told her children a story.
+Output:
+Cô ấy nói với con gái một câu chuyện.
+Input: Translate to Vietnamese: The train arrived at the station on time.
+Output:
+Chiếc tàu đi đến trạm vào lúc đó.
+Input: Translate to Vietnamese: The bus was late this morning.
+Output:
+Chuyến xe buýt đã trễ buổi sáng hôm nay.
+Input: Translate to Vietnamese: I missed the train yesterday.
+Output:
+Tôi đã bỏ lỡ chuyến tàu hôm qua.
+Input: Translate to Vietnamese: She took a taxi to the airport.
+Output:
+Cô ấy đã lấy taxi cho sân bay.
+Input: Translate to Vietnamese: He drove his car to work.
+Output:
+Ông ta lái xe đến làm việc.
+Input: Translate to Vietnamese: We walked to the restaurant.
+Output:
+Chúng tôi đi tới nhà hàng.
+Input: Translate to Vietnamese: They traveled to Hanoi last summer.
+Output:
+Họ đi đến Hà Nội vào mùa hè cuối cùng.
+Input: Translate to Vietnamese: I am waiting at the bus stop.
+Output:
+Tôi đang chờ ở xe buýt dừng.
+Input: Translate to Vietnamese: The plane will arrive at noon.
+Output:
+Máy bay sẽ đến buổi trưa.
+Input: Translate to Vietnamese: We need to leave for the airport early.
+Output:
+Chúng ta cần rời sân bay sớm.
+Input: Translate to Vietnamese: She cooked rice for dinner.
+Output:
+Cô ấy đã nấu ăn cho bữa tối.
+Input: Translate to Vietnamese: He drank a glass of water.
+Output:
+Hắn uống một đống nước.
+Input: Translate to Vietnamese: I ate an apple this morning.
+Output:
+Tôi ăn một quả táo sáng nay.
+Input: Translate to Vietnamese: They ordered some food at the restaurant.
+Output:
+Họ ra lệnh một số thức ăn ở nhà hàng.
+Input: Translate to Vietnamese: We had coffee after lunch.
+Output:
+Chúng tôi đã uống cà phê sau bữa trưa.
+Input: Translate to Vietnamese: She bought fresh fish at the market.
+Output:
+Cô ấy mua cá ở chợ.
+Input: Translate to Vietnamese: He cut the bread with a knife.
+Output:
+Hắn cắt bánh mì với một con dao.
+Input: Translate to Vietnamese: I put some sugar in my coffee.
+Output:
+Tôi đã bỏ một ít đường trong cà-phê.
+Input: Translate to Vietnamese: They cooked vegetables for dinner.
+Output:
+Họ nấu ăn rau cho bữa tối.
+Input: Translate to Vietnamese: We need some fresh fruit.
+Output:
+Chúng ta cần một ít trái cây.
+Input: Translate to Vietnamese: I am looking for my wallet.
+Output:
+Tôi đang tìm ví của tôi.
+Input: Translate to Vietnamese: She is looking at the picture.
+Output:
+Cô ấy đang nhìn vào bức ảnh.
+Input: Translate to Vietnamese: He found his keys under the bed.
+Output:
+Hắn tìm thấy chìa khóa dưới giường.
+Input: Translate to Vietnamese: We are looking for a new apartment.
+Output:
+Chúng tôi đang tìm một căn hộ mới.
+Input: Translate to Vietnamese: They found a quiet place to stay.
+Output:
+Họ tìm thấy một nơi yên tĩnh để ở lại.
+Input: Translate to Vietnamese: I saw a bird in the tree.
+Output:
+Tôi thấy một con chim trong cái cây.
+Input: Translate to Vietnamese: She heard a strange noise outside.
+Output:
+Cô ấy nghe tiếng ồn ngoài ngoài.
+Input: Translate to Vietnamese: He watched the children playing.
+Output:
+Anh ta đã đánh thức con cái chơi.
+Input: Translate to Vietnamese: We saw a beautiful mountain.
+Output:
+Chúng tôi thấy một ngọn núi đẹp.
+Input: Translate to Vietnamese: They heard someone knocking at the door.
+Output:
+Họ nghe thấy ai đó dã dâm ở cửa.
+Input: Translate to Vietnamese: I need to finish this work today.
+Output:
+Tôi cần kết thúc công việc này hôm nay.
+Input: Translate to Vietnamese: She wants to learn English.
+Output:
+Cô ấy muốn học tiếng Anh.
+Input: Translate to Vietnamese: He hopes to visit Vietnam someday.
+Output:
+Hắn hy vọng sẽ đến Việt Nam một ngày nào đó.
+Input: Translate to Vietnamese: We plan to travel next year.
+Output:
+Chúng ta sẽ đi du lịch vào năm sau.
+Input: Translate to Vietnamese: They decided to stay at home.
+Output:
+Họ quyết định ở nhà.
+Input: Translate to Vietnamese: I forgot to bring my umbrella.
+Output:
+Tôi quên mang theo "thân biệt" của tôi.
+Input: Translate to Vietnamese: She remembered to lock the door.
+Output:
+Cô ấy nhớ đến chỗ cửa.
+Input: Translate to Vietnamese: He tried to open the window.
+Output:
+Ông ta cố mở cửa sổ.
+Input: Translate to Vietnamese: We need to find a better solution.
+Output:
+Chúng ta cần tìm giải pháp tốt hơn.
+Input: Translate to Vietnamese: They want to learn how to cook.
+Output:
+Họ muốn học cách nấu ăn.
+Input: Translate to Vietnamese: The store opens at eight in the morning.
+Output:
+Giá cửa mở cửa vào lúc 8 giờ sáng.
+Input: Translate to Vietnamese: The bank closes at five o'clock.
+Output:
+Ngân hàng đóng cửa lúc 5 giờ sáng.
+Input: Translate to Vietnamese: The meeting starts in ten minutes.
+Output:
+Cuộc họp bắt đầu trong 10 phút.
+Input: Translate to Vietnamese: The movie ends at nine tonight.
+Output:
+Bộ phim kết thúc vào lúc 9 giờ tối.
+Input: Translate to Vietnamese: The restaurant is open today.
+Output:
+Nhà hàng mở cửa ngày nay.
+Input: Translate to Vietnamese: The shop is closed on Sunday.
+Output:
+Máy được đóng cửa vào Chủ nhật.
+Input: Translate to Vietnamese: The door is locked.
+Output:
+Cửa được đặt ở chỗ.
+Input: Translate to Vietnamese: The window is broken.
+Output:
+Cửa sổ bị vỡ.
+Input: Translate to Vietnamese: The computer is turned off.
+Output:
+Máy tính bị tắt.
+Input: Translate to Vietnamese: The light is still on.
+Output:
+Ánh sáng vẫn còn trên.
+Input: Translate to Vietnamese: Can you send me the file?
+Output:
+Anh có thể gửi cho tôi hồ sơ được không?
+Input: Translate to Vietnamese: Can you bring me some water?
+Output:
+Anh mang cho tôi ít nước được không?
+Input: Translate to Vietnamese: Could you close the door?
+Output:
+Anh có thể đóng cửa không?
+Input: Translate to Vietnamese: Would you like some coffee?
+Output:
+Anh có muốn uống cà phê không?
+Input: Translate to Vietnamese: Do you want to come with us?
+Output:
+Anh có muốn đi với chúng tôi không?
+Input: Translate to Vietnamese: Are you ready to leave?
+Output:
+Anh sẵn sàng để lại không?
+Input: Translate to Vietnamese: Have you finished your homework?
+Output:
+Anh đã hoàn thành bài tập về nhà chưa?
+Input: Translate to Vietnamese: Did you see my message?
+Output:
+Anh có thấy tin nhắn của tôi không?
+Input: Translate to Vietnamese: Will you be home tonight?
+Output:
+Tối nay anh có về nhà không?
+Input: Translate to Vietnamese: Do you know where she lives?
+Output:
+Anh có biết cô ấy sống ở đâu không?
+Input: Translate to Vietnamese: My father works in a hospital.
+Output:
+Cha tôi làm việc trong một bệnh viện.
+Input: Translate to Vietnamese: My mother teaches at a school.
+Output:
+Mẹ tôi dạy học ở trường.
+Input: Translate to Vietnamese: My brother works at a restaurant.
+Output:
+Anh trai tôi làm việc ở một nhà hàng.
+Input: Translate to Vietnamese: She works in an office downtown.
+Output:
+Cô ấy làm việc ở một văn phòng ở trung tâm.
+Input: Translate to Vietnamese: He is talking to his manager.
+Output:
+Anh ta đang nói chuyện với quản lý của mình.
+Input: Translate to Vietnamese: They are having a meeting now.
+Output:
+Họ đang gặp nhau ngay.
+Input: Translate to Vietnamese: We need to finish this project by Friday.
+Output:
+Chúng ta cần hoàn thành dự án này vào thứ sáu.
+Input: Translate to Vietnamese: She sent an email to her manager.
+Output:
+Cô ấy gửi một email đến quản lý của mình.
+Input: Translate to Vietnamese: He is preparing a report for tomorrow.
+Output:
+Ông ấy đang chuẩn bị một báo cáo cho ngày mai.
+Input: Translate to Vietnamese: I have a meeting at three o'clock.
+Output:
+Tôi có cuộc họp ở ba o'clock.
+Input: Translate to Vietnamese: The blue car is parked outside.
+Output:
+Cái xe xanh được đóng ở bên ngoài.
+Input: Translate to Vietnamese: She is wearing a red dress.
+Output:
+Cô ấy mặc áo đỏ.
+Input: Translate to Vietnamese: He bought a black jacket.
+Output:
+Hắn mua một cái áo tắm blacket.
+Input: Translate to Vietnamese: The white shirt is on the bed.
+Output:
+Đập trắng trên giường.
+Input: Translate to Vietnamese: I have a small green bag.
+Output:
+Tôi có một cái túi màu xanh nhỏ.
+Input: Translate to Vietnamese: The big house has three bedrooms.
+Output:
+Nhà lớn có ba phòng ngủ.
+Input: Translate to Vietnamese: She has long black hair.
+Output:
+Cô ta có mái tóc dài.
+Input: Translate to Vietnamese: He is wearing brown shoes.
+Output:
+Hắn đang mặc giày nâu.
+Input: Translate to Vietnamese: The yellow bus stopped near the school.
+Output:
+Căn cứ vàng dừng lại gần trường.
+Input: Translate to Vietnamese: There is a large tree behind the house.
+Output:
+Có một cây lớn phía sau nhà.
+Input: Translate to Vietnamese: I was tired, so I went home early.
+Output:
+Tôi mệt mỏi, nên tôi đã về nhà sớm.
+Input: Translate to Vietnamese: She was hungry, so she made some food.
+Output:
+Cô ấy đói, nên cô ấy làm một số thức ăn.
+Input: Translate to Vietnamese: He was late, so he took a taxi.
+Output:
+Ông ta đã trễ, nên ông ta lấy taxi.
+Input: Translate to Vietnamese: It was raining, so we stayed inside.
+Output:
+Nó mưa, nên chúng tôi ở trong.
+Input: Translate to Vietnamese: I forgot my umbrella, so I got wet.
+Output:
+Tôi quên mất uy tín của tôi, nên tôi đã ôm ả.
+Input: Translate to Vietnamese: She studied hard, so she passed the exam.
+Output:
+Cô học rất khó khăn, nên cô đã nhấn chìm cái máy.
+Input: Translate to Vietnamese: He missed the bus, so he walked home.
+Output:
+Hắn đã bỏ lỡ xe buýt, nên hắn đã đi về nhà.
+Input: Translate to Vietnamese: We were tired, so we stopped for a break.
+Output:
+Chúng tôi mệt mỏi, nên chúng tôi dừng lại để nghỉ ngơi.
+Input: Translate to Vietnamese: They were hungry, so they went to a restaurant.
+Output:
+Họ đói, nên họ đi nhà hàng.
+Input: Translate to Vietnamese: The road was closed, so we took another route.
+Output:
+Con đường đã đóng cửa, nên chúng tôi đã đi một đường khác.
+
+## Verdict: **Not good enough yet — but the model has learned basic EN→VI translation**
+
+I reviewed the full **420 translation examples** in the uploaded output. 
+
+### Overall score
+
+| Category                                   |      Verdict |
+| ------------------------------------------ | -----------: |
+| Understands simple English sentences       |      🟢 Good |
+| Basic Vietnamese vocabulary                | 🟢 Fair–Good |
+| Word order                                 |      🟡 Fair |
+| Tenses                                     |      🟡 Fair |
+| Prepositions                               |      🔴 Weak |
+| Verb meaning                               |      🔴 Weak |
+| Longer/composite sentences                 |      🔴 Weak |
+| Semantic accuracy                          |      🔴 Weak |
+| Consistency                                |      🔴 Weak |
+| Natural Vietnamese                         |      🔴 Weak |
+| **Estimated overall translation accuracy** |  **~60–65%** |
+
+I would **not consider this production-ready**, but for a tiny ~5M-parameter translation model, the fact that it can correctly translate many basic sentences is actually a decent starting point.
+
+---
+
+## The biggest problem: it often knows the sentence structure but chooses the wrong word
+
+For example:
+
+> `The cat is sleeping on the sofa.`
+> → `Con mèo đang ngủ trên ngực.`
+
+It understands:
+
+* cat → mèo
+* sleeping → đang ngủ
+* on → trên
+
+But **sofa → ngực** is completely wrong. 
+
+That's a classic **small vocabulary / weak lexical representation** problem.
+
+Another:
+
+> `I need a pen to write this down.`
+> → `Tôi cần một cây gậy để viết cái này.`
+
+`pen` became `cây gậy` (stick). 
+
+And:
+
+> `She needs a new pair of shoes.`
+> → `Cô ấy cần một cặp đôi mới.`
+
+It loses **shoes** completely. 
+
+---
+
+# 🔴 Major semantic failures
+
+There are many cases where the model produces Vietnamese that is grammatical-looking but means something completely different.
+
+### Very bad examples
+
+`The car is parked in front of the house.`
+
+→ `Cái xe được chôn ở trước nhà.`
+
+**parked → chôn** (buried). 
+
+---
+
+`The keys are inside the drawer.`
+
+→ `Chìa khóa bên trong cổng.`
+
+**drawer → gate**. 
+
+---
+
+`Your phone is next to the computer.`
+
+→ `Điện thoại của anh là tiếp theo máy tính.`
+
+The relationship is basically lost. 
+
+---
+
+`The restaurant is across from the hotel.`
+
+→ `Nhà hàng ở khắp khách sạn.`
+
+Very incorrect. 
+
+---
+
+`They sometimes watch movies at night.`
+
+→ `Đôi khi họ có những bộ phim múa mì vào ban đêm.`
+
+This is a **severe failure**; the output is effectively nonsensical. 
+
+---
+
+`The teacher is writing on the board.`
+
+→ `Bác sĩ đang viết trên bảng.`
+
+**teacher → doctor**. 
+
+This indicates the model is confusing semantically unrelated nouns.
+
+---
+
+# 🔴 It also has serious verb confusion
+
+For example:
+
+`We watched a movie last night.`
+
+→ `Chúng tôi đã đánh chìm một bộ phim đêm qua.`
+
+`watched` → **đánh chìm**.
+
+That's not a tense problem. That's a **lexical/semantic failure**. 
+
+Another:
+
+`She was reading when the phone rang.`
+
+→ `Cô ấy đọc khi điện thoại chạy.`
+
+`rang` → **chạy**. 
+
+And:
+
+`We were watching TV when the power went out.`
+
+→ `Chúng tôi đang đi tắm TV khi sức mạnh ra đi.`
+
+This is essentially a collapse of the sentence semantics. 
+
+---
+
+# 🔴 The model struggles badly with idiomatic/compound meaning
+
+For example:
+
+`If you study hard, you will pass the exam.`
+
+→ `Nếu bạn nghiên cứu khó khăn, bạn sẽ làm hỏng mọi thứ.`
+
+Expected:
+
+> `Nếu bạn học chăm chỉ, bạn sẽ vượt qua kỳ thi.`
+
+The model gets almost every important semantic component wrong. 
+
+Another:
+
+`If we leave now, we can catch the bus.`
+
+→ `Nếu chúng ta rời khỏi đây, chúng ta có thể catch xe buýt.`
+
+It literally leaves **catch** untranslated. 
+
+---
+
+# 🟡 But there are many genuinely good translations
+
+This is important: **the model isn't simply broken.**
+
+For example:
+
+> `I don't know what happened yesterday.`
+> → `Tôi không biết chuyện gì đã xảy ra hôm qua.`
+
+Excellent. 
+
+---
+
+> `They have been waiting for you since morning.`
+> → `Họ đã chờ anh từ sáng rồi.`
+
+Good and natural enough. 
+
+---
+
+> `Please open the window.`
+> → `Làm ơn mở cửa sổ.`
+
+Correct. 
+
+---
+
+> `The children are playing in the garden.`
+> → `Những đứa trẻ đang chơi trong vườn.`
+
+Correct. 
+
+---
+
+> `I will call you when I arrive.`
+> → `Tôi sẽ gọi cho anh khi tôi đến.`
+
+Correct. 
+
+---
+
+> `She has lived here for five years.`
+> → `Cô ấy đã sống ở đây 5 năm.`
+
+Correct. 
+
+---
+
+> `Don't open that door.`
+> → `Đừng mở cửa đó.`
+
+Correct. 
+
+---
+
+> `What are you doing?`
+> → `Anh đang làm gì vậy?`
+
+Very good. 
+
+---
+
+> `I don't understand this question.`
+> → `Tôi không hiểu câu hỏi này.`
+
+Correct. 
+
+---
+
+> `The room is too small.`
+> → `Căn phòng quá nhỏ.`
+
+Correct. 
+
+---
+
+> `This box is very heavy.`
+> → `Cái hộp này rất nặng.`
+
+Correct. 
+
+---
+
+> `She wants to learn English.`
+> → `Cô ấy muốn học tiếng Anh.`
+
+Correct. 
+
+---
+
+# The most concerning pattern
+
+The model frequently produces:
+
+**English structure → Vietnamese structure that looks plausible → wrong semantic word**
+
+For example:
+
+```text
+teacher → doctor
+sofa → chest
+pen → stick
+parked → buried
+drawer → gate
+watched → sank
+rang → ran
+umbrella → "thân biệt"
+study → research
+exam → everything
+```
+
+That means your model has learned **patterns and syntax**, but its **lexical mapping is not reliable enough**.
+
+---
+
+# My rating for this model
+
+For a **tiny ~5M parameter EN→VI model**:
+
+### Architecture/training result
+
+**6/10**
+
+### Translation quality
+
+**~6/10**
+
+### Basic sentences
+
+**7.5/10**
+
+### Vocabulary accuracy
+
+**4.5/10**
+
+### Complex sentences
+
+**4/10**
+
+### Production translation
+
+**2.5/10**
+
+---
+
+## The good news
+
+I would **not throw this model away**.
+
+The model clearly learned:
+
+* English → Vietnamese task format
+* `Input → Output`
+* basic English syntax
+* common Vietnamese sentence structures
+* many common verbs
+* simple present/past/future
+* negation
+* questions
+* modal verbs
+* basic conjunctions
+* basic vocabulary
+
+For example, it handles sentences like `I don't understand this question`, `Please open the window`, `I will call you when I arrive`, and `She wants to learn English` correctly.   
+
+### My main diagnosis
+
+**Your model is probably under-trained and/or too small for the vocabulary/translation complexity you're asking it to handle.**
+
+The errors don't look like merely "needs more epochs." A particularly important issue is that **many common English words map to unrelated Vietnamese words**, which suggests your tokenizer/vocabulary, training data quality, model capacity, or all three need attention.
+
+If this is the **~5M-parameter model with 6,000-token vocabulary** you've been training, I would expect exactly this kind of behavior: it can memorize/learn common patterns, but it has very limited capacity for robust lexical and contextual translation.
